@@ -1,0 +1,168 @@
+{
+  "_id": "3ea03253ddce12c3",
+  "name": "Filling Double Exposure's Gaps",
+  "pages": [
+    {
+      "_id": "ac91a74d898f8ba4",
+      "name": "Why & Where",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><em>Double Exposure</em> opens episodically: the team runs standalone jobs for the same fixer while the Project Hope thread slowly surfaces. The book spaces these out — segment 2 literally opens <em>\"a couple of real-time weeks after the last job.\"</em> Those early gaps (between DE segments 1–3) are downtime windows you can fill with a self-contained run before the team gets pulled into the camps. Once they commit to Project Hope (DE segment 4+, they're inside the camp), there's no room for unrelated side-jobs.</p>\n        <p>The two Seattle adventures in <em>Missions</em> slot in cleanly. The other two (<em>Mission: Mars</em>, off-world AresSpace conspiracy; <em>King of the Mountain</em>, UCAS Special Forces in Alaska) are a different campaign frame and are not meant as DE inserts.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "9bfeb93cb7313dca",
+      "name": "Slot 1 — Under the Influence (between DE seg 1 → 2)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Where:</strong> the first downtime gap, before the team has any inkling of Project Hope.</p>\n        <p><strong>Hook:</strong> a straightforward Seattle investigation — a missing Lone Star undercover officer who vanished tailing a heavily-cybered street gang. Standard runner work; no DE connection needed.</p>\n        <p><strong>Why it fits:</strong> same city, same kind of team, same investigative beat. The villain's <strong>Aztechnology behavioural-control cyberware</strong> — ordinary people remade into someone else's puppets — quietly <em>rhymes</em> with DE's insect-spirit body-horror without spoiling it. Run it straight and your players will feel the echo later. Pure foreshadowing.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "694cd08a1baa6caf",
+      "name": "Slot 2 — Malpractice (after DE seg 2)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Where:</strong> the gap after DE segment 2 (the DocWagon sample-case milk run).</p>\n        <p><strong>Hook — built in:</strong> DE segment 2 already puts the team in business with <strong>DocWagon</strong>. That same contact brings them the Malpractice job: go undercover as DocWagon High-Threat-Response medics to flush out a mole who's selling <strong>medical records and DNA samples</strong> to an outside buyer.</p>\n        <p><strong>Why it fits:</strong> Seattle, a runner team, and a <strong>medical / bio-data-theft</strong> theme that dovetails with DE's later medical-center segment and Renraku's off-the-books bio-experiments. You can even leave the \"mysterious outside buyer\" deliberately vague — a GM who wants tighter integration can imply a Renraku or Universal Brotherhood fingerprint.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "87bcb3c8182d6d64",
+      "name": "Not for DE — Mars & King of the Mountain",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Mission: Mars</strong> — the PCs are AresSpace security agents untangling a Mars-mission cover-up tied to Dunkelzahn's will. Off-world setting, epic conspiracy scope, sci-fi tone. Cannot drop into a Seattle downtime gap.</p>\n        <p><strong>King of the Mountain</strong> — the PCs are <em>UCAS Special Forces</em> (not shadowrunners) assaulting an Alaskan mountain fortress held by a Humanis death cult. Wrong PC type, location, and premise for a runner campaign.</p>\n        <p>Both are solid adventures — just for a different table/campaign, not DE inserts.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "39ca758e42cba483",
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!3ea03253ddce12c3"
+}

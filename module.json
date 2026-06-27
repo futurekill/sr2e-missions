@@ -1,0 +1,22 @@
+{
+  "id": "sr2e-missions",
+  "title": "Shadowrun 2E: Missions",
+  "description": "Adventures from Missions (FASA 7325) for the Shadowrun 2nd Edition system — GM journals, NPC stat blocks, and maps. Built to drop into the downtime gaps of the Double Exposure campaign (Seattle, 2055).",
+  "version": "0.1.0",
+  "compatibility": { "minimum": "13", "verified": "13" },
+  "relationships": {
+    "systems": [
+      { "id": "sr2e", "type": "system", "compatibility": { "minimum": "0.9.0" } }
+    ]
+  },
+  "authors": [ { "name": "James Candalino" } ],
+  "packs": [
+    { "name": "mi-journals", "label": "Missions — GM Journals", "path": "packs/mi-journals", "type": "JournalEntry", "system": "sr2e", "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" } },
+    { "name": "mi-cast", "label": "Missions — Cast", "path": "packs/mi-cast", "type": "Actor", "system": "sr2e" },
+    { "name": "mi-scenes", "label": "Missions — Scenes", "path": "packs/mi-scenes", "type": "Scene", "system": "sr2e" }
+  ],
+  "packFolders": [
+    { "name": "Missions", "sorting": "m", "packs": ["mi-journals", "mi-scenes", "mi-cast"] }
+  ],
+  "flags": {}
+}

@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+
+# Working extraction area — OCR text and page renders derived from the source
+# PDF. Local planning material only; never committed or shipped.
+_work/
+
+# LevelDB write-ahead logs must stay tracked (mirrors the system repo policy),
+# everything else in packs/ is the build output.
+!packs/**/*.log
+
+.DS_Store
