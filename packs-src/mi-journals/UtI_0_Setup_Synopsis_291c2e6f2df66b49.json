@@ -1,0 +1,96 @@
+{
+  "_id": "291c2e6f2df66b49",
+  "name": "UtI 0 — Setup & Synopsis",
+  "pages": [
+    {
+      "_id": "e7c8c3cb6b91f220",
+      "name": "Premise",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Seattle, 2055. <strong>Sergeant Franco Tanner</strong>, a Lone Star undercover officer, infiltrated a heavily-cybered street gang to trace a source of cutting-edge cyberware. Three months in, posing as the fence \"Leopard\" Leonard, his reports pointed to a back-alley cyberdoc — <strong>\"Dr. Cuca\"</strong> — and then stopped cold. The team (Lone Star officers, or deniable freelancers hired by Lone Star's Division of Investigation) is sent to find him.</p>\n        <p><strong>The secret:</strong> \"Dr. Cuca\" is a front for a <strong>Renraku</strong> covert program testing illegal <strong>behavioural-control cyberware</strong> on the destitute. The gang's edge is the implants — and Tanner himself has been compromised, which is why he turns up acting strangely. (This is the thread that quietly foreshadows Double Exposure's mind-control horror.)</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "097b25f3c5a1fae0",
+      "name": "Running It / Getting Started",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Best run with the players as Lone Star officers; alternatively freelancers given a Lone Star contact and a cover package (Division of Investigation IDs, six months of DocWagon Platinum, SINs; magicians get SWAT backup). See <em>Shadowrun Companion</em> p.34 for the equipment Edge.</p>\n        <p>Two starting leads: <strong>Leopard's Den</strong> (Tanner's hideout) and <strong>Chez Cuca</strong> (the cyberdoc's clinic). Let the players pick the order; both converge on the Renraku body shop. <em>Legwork</em> covers extra inquiries (book p.23).</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "ab202c6f5cac598f",
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!291c2e6f2df66b49"
+}

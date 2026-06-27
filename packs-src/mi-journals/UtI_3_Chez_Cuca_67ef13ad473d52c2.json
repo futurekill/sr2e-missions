@@ -1,0 +1,168 @@
+{
+  "_id": "67ef13ad473d52c2",
+  "name": "UtI 3 — Chez Cuca",
+  "pages": [
+    {
+      "_id": "5c4bb05dbc66f761",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>\"Dr. Cuca's\" chop shop hides beneath <strong>MindSound Music</strong>, a legit-enough store fronting a warren of cover businesses — a cheap-electronics outlet, an Amazonian café. The body shop sits below, screened behind layers of misdirection and a fast-talking receptionist who runs surveillance on everyone who walks in.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "3bc15556d422b713",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> The store runs on several layers of deceit. Following the cyberdoc thread (legally or not) eventually exposes the hidden clinic.</p>\n        <p><strong>Behind the Scenes.</strong> \"Dr. Cuca\" is <strong>Lindy</strong>, a Renraku covert operative who screens the desperate before admitting \"patients.\" The chop shop is a front for Renraku's underground program testing illegal <strong>behavioural-control cyberware</strong> — the gang's edge, and what compromised Tanner. Lindy is bright and not easily fooled.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "f6763d8a9907669e",
+      "name": "The Run & Opposition",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>The team must get past Lindy and into the clinic — talk, deception, or force. <strong>Lindy</strong> (see the Cast compendium) is a capable combatant (Wired-2, Orthoskin, Viper Slivergun) and will fight if cornered. Penetrating the clinic opens the way to the Renraku research (<em>Whose Side Are You On?</em>) and to <em>Decking the Doctor</em> if a decker hits Cuca's Matrix system.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "901e4813575fb605",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Lindy's screening is the gate. If the team can't talk their way in, the music-store cover, the surveillance gear, and the underground access all reward legwork and a quiet approach over a frontal one.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "ab202c6f5cac598f",
+  "sort": 30,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!67ef13ad473d52c2"
+}

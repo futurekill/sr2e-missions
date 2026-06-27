@@ -1,0 +1,168 @@
+{
+  "_id": "96117070798788cf",
+  "name": "UtI 1 — Vanishing Act",
+  "pages": [
+    {
+      "_id": "133f1b510040e616",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Captain Burns looks unhappy today. He always looks unhappy — but today, even more so, and the fact that he's called you into his office this particular morning suggests whatever he has to say will make <em>you</em> unhappy too. He waves you to sit (there are two chairs, and he's in one of them), looks you over a long moment, and finally opens his mouth.</p>\n        <p>The job: one of the department's undercover people has gone dark, and the brass wants him found — quietly.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "f88d0084e0c1e54f",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> A straightforward \"find our missing operative\" briefing. Convey: Tanner is good at his job, the gang he infiltrated runs <em>state-of-the-art</em> cyberware, and his last reports named a cyberdoc, \"Dr. Cuca.\"</p>\n        <p><strong>Behind the Scenes.</strong> Tanner posed as fence \"Leopard\" Leonard, found the gang within three months, traced their implants to Cuca — then his reports stopped. The team gets cover IDs and basic intel, but Tanner's personnel file is conspicuously <em>not</em> on the network.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "069c54667c7cc107",
+      "name": "The Run & Opposition",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>No opposition in the briefing itself. The team leaves with two leads — Tanner's hideout (<em>Leopard's Den</em>) and the cyberdoc's clinic (<em>Chez Cuca</em>) — and whatever cover the GM issued. Encourage legwork (book p.23) before kicking doors.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "13952bfa35a4e834",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Little can go wrong here. Keep the goal clear — <strong>locate Tanner</strong> — and don't let players over-analyse the cover package. If they head for the clinic first, go to <em>Chez Cuca</em>; for the hideout, <em>Leopard's Den</em>.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "ab202c6f5cac598f",
+  "sort": 10,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!96117070798788cf"
+}

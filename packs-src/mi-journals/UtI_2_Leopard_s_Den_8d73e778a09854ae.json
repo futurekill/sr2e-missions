@@ -1,0 +1,168 @@
+{
+  "_id": "8d73e778a09854ae",
+  "name": "UtI 2 — Leopard's Den",
+  "pages": [
+    {
+      "_id": "c81cce74fc5ebb25",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>So this is where Tanner holes up slumming it as \"Leopard\" Leonard: the <strong>Solomon Arms</strong>, a four-storey hotel that's seen better decades but isn't the worst squat you've crossed. The desk clerk actually looks up as you enter. Tanner's \"suite\" is on the third floor — closed, locked, no sign of forced entry, and quiet inside.</p>\n        <p><em>Once inside:</em> nobody's home, alive or otherwise. The place is a slob's nest — dirty socks and Nuke-It Burger wrappers everywhere — but it's ordinary day-to-day mess, no struggle, no foul play. The kitchen garbage is full but hasn't started to stink, so he's been gone maybe a day. The telecom holds no messages; old ones were erased or hidden in storage memory. Not much to go on.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "3bc15556d422b713",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> The hideout should feel like a dead end — the only thread is the telecom, and even that's thin. The real curve ball is that <strong>Tanner may turn up</strong> while they're there, acting erratically, with bizarre mood swings. Let his behaviour tip the players that something is wrong without spelling it out.</p>\n        <p><strong>Behind the Scenes.</strong> Getting in is the first puzzle — knocking gets no answer, breaking in risks attention, asking the clerk for the key risks blowing Tanner's cover and weeks of undercover work. Tanner's strangeness is the first symptom of the control cyberware.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "c12857ad6386140a",
+      "name": "The Run & Opposition",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>No direct opposition — this is an investigation beat. If Tanner appears, play his mood swings for unsettling effect, not combat. Anything that draws attention to him or the team can damage the case.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "afbb4a9e73a97bd9",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Don't give too much away too soon. Mine the humour in Tanner's mood swings, but keep it under control. If the players stall, the wiped telecom + the cyberdoc lead from the briefing points them to <em>Chez Cuca</em>.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "ab202c6f5cac598f",
+  "sort": 20,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!8d73e778a09854ae"
+}
