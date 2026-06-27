@@ -34,6 +34,7 @@ for (const pack of packs.sort()) {
     try { doc = JSON.parse(readFileSync(path, "utf8")); }
     catch (e) { note(`${f}: invalid JSON — ${e.message}`); continue; }
 
+    if (typeof doc._key === "string" && doc._key.startsWith("!folders!")) continue; // compendium folder docs
     const required = ["_id", "_key", "name"];
     if (HAS_TYPE_SYSTEM.has(collection)) required.push("type", "system");
     for (const k of required) {
