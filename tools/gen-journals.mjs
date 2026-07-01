@@ -185,6 +185,160 @@ const JOURNALS = [
         <p><strong>2–3:</strong> "Those flaggers must have serious backing — packing more chrome than some runners I know. I dunno what they're up to, but I'm not about to cross 'em."</p>
         <p><strong>4+:</strong> "I know one of the guys in that gang — saw him on the trid when they hit that strip mall in Northgate. Asked him about it and he acted like he'd never heard of it. Swear it was him. Two days later he turns up dead. You ask me, something weird's goin' on with that gang."</p>`)
     ]
+  },
+
+  // ── MALPRACTICE ────────────────────────────────────────────────────────────
+  {
+    name: "Mal 0 — Setup & Synopsis", folder: "malpractice", sort: 0,
+    pages: [
+      page("Premise", `
+        <p>Seattle, 2057. <strong>Robert "Doctor Bob" Khamdeng</strong> — once a DocWagon paramedic, now a shadowrunner — was approached years ago by a shadowy figure called <strong>Brown</strong> who wanted DocWagon clients' <strong>DNA samples and medical histories</strong>. Bob refused; three days later his rookie HTR team was ambushed and wiped out, and only dumb luck spared him. He let the world think he'd died and vanished into the shadows.</p>
+        <p>Now Bob has learned Brown had <em>another</em> DocWagon contact — a <strong>mole still working inside an HTR team</strong>. Through his old friend <strong>Liz Yamato</strong> (DocWagon Internal Security), he's traced it to <strong>Team Three</strong>, going on Expert Duty within a week. Bob hires the team to go undercover as DocWagon <strong>Temporary Response Personnel (TRP)</strong>, ride with Team Three, and unmask the mole.</p>`),
+      page("The Cast of Villains (GM's choice)", `
+        <p>The default mole is <strong>Shawn</strong>, a Team Three medic; the GM may pick a different one and adjust the clues. <strong>Brown</strong> and his organisation are deliberately open — a megacorp, a genetic-research player, the UCAS government, or "a secret cabal of mantis spirits" (Threats). His org plays to the mole's weaknesses (cash, power, BTLs, sex — all future blackmail leverage). Whatever you choose, Brown becomes a recurring <strong>Enemy</strong> in the PCs' lives (Enemy rules: <em>Shadowrun Companion</em> p.71–75).</p>
+        <p><strong>DE tie-in:</strong> leaving "Brown's mysterious buyer of DNA and medical records" vague lets a GM later imply a Renraku or Universal Brotherhood fingerprint, threading Malpractice into Double Exposure's bio-experiment conspiracy.</p>`),
+      page("Running It / Getting Started", `
+        <p>Set in Seattle (relocatable to any DocWagon city; DocWagon lore in <em>NAGRL</em> p.41–47). Players may build DocWagon characters (<em>Shadowrun Companion</em> p.112) or run their usual shadowrunners and become temporary DocWagon medics over the adventure. If they're already DocWagon staff, <strong>Liz Yamato</strong> recruits them via the new TRP programme; if they're runners, <em>Train In Vain</em> is their crash course in not looking like a runner while wearing DocWagon colours.</p>`)
+    ]
+  },
+  {
+    name: "Mal 1 — Never Deal With the Wagon", folder: "malpractice", sort: 10,
+    pages: [
+      page("Read to the Players", `
+        <p>"Mama, look! The boats!" A little boy caroms off your leg racing for the window overlooking <strong>Pier 60</strong>, then gapes up at you. His mother yanks him back, apologising, and hurries off. All around, suits stare furtively while pretending not to. At a big booth loaded with enough food for a family sits your man — "Morphine" — in a faded "Sonics in 53!" shirt: "Hoi! Glad you came. Sit, sit — no way I finish this alone. Wasn't sure what you'd like, so I ordered two of everything."</p>`),
+      page("Hooks & Behind the Scenes", `
+        <p><strong>Hooks.</strong> "Morphine" is <strong>Robert Khamdeng — "Doctor Bob"</strong>, an ex-DocWagon paramedic. He needs unknowns, not his own linked regulars. The job: undercover as DocWagon TRP for about a week; airtight cover IDs that only break if the team makes a mistake. Payment more than doubles his cash offer with non-monetary perks. Hard deadline: <strong>four weeks</strong>.</p>
+        <p><strong>Behind the Scenes.</strong> Bob tells his story — Brown's old offer to buy DocWagon DNA/records, his refusal, the ambush that killed his team, his flight into the shadows — and the new job: a mole is <em>still</em> feeding Brown from inside an HTR team, and Bob wants them found. If the PCs already work for DocWagon, the request comes from <strong>Liz Yamato</strong> (Internal Security) as a "grave threat" assignment instead.</p>`),
+      page("The Run & Opposition", `
+        <p>No combat — a social meet. Bob won't be milked like a Johnson: <em>"My name is Khamdeng, not Johnson — I'm as poor as you are."</em> He's spent nearly everything on the cover IDs and training. A local trid station has offered him 20,000¥ for his story plus the mole's; from that he'll pay the team a <strong>15,000¥ bonus</strong> on success, and (grudgingly) throw in his third-row Supersonics season pass if a PC really pushes. Refusing to eat with him or hard-bargaining before he's finished may make him apologise and walk.</p>`),
+      page("Dropping Clues & Debugging", `
+        <p>If the team has no street contacts, a corporate contact calls instead; answer questions from the Doctor Bob / Robert Khamdeng entry in the Legwork section (book p.46). Veteran "never trust a Johnson" players may balk — a little courtesy keeps Bob at the table.</p>`)
+    ]
+  },
+  {
+    name: "Mal 2 — Train In Vain", folder: "malpractice", sort: 20,
+    pages: [
+      page("Read to the Players", `
+        <p>The Redmond DocWagon clinic — too white, too clean, smelling of the sick and the dead. The <strong>Citymaster</strong> (264-10) is parked exactly where Bob said. A dwarf woman leans against its door; the street's quiet, the contact clean. As you cross, she looks up: "Any of you need a shot of <em>Morphine</em>?" — "Only to see the Sonics," you answer. "Get in," she says. "It's time to make you into spies."</p>`),
+      page("Hooks & Behind the Scenes", `
+        <p><strong>Hooks.</strong> A crash course in the DocWagon way. <strong>Liz Yamato</strong>'s job is to turn the team into an adequate Temporary Response crew in <em>48 hours</em> (vs the usual three weeks). She takes it seriously — one wrong move and she loses DocWagon's security, the chance at the mole, and probably her job.</p>
+        <p><strong>Behind the Scenes.</strong> Liz lets them into the Citymaster and drives to an abandoned warehouse near the Federated Boeing shipyards for quick TRP training (run it out, use the optional encounters under <em>Sleepless In Seattle</em>, or hook them into a Virtual Training rig — GM's choice). If you skip the training, be sure the players learn the four rules below.</p>`),
+      page("The DocWagon TRP Rules", `
+        <p><strong>1. Protect the paramedics.</strong> If the medics can't work, clients die and DocWagon loses money. You are expendable; they are not.</p>
+        <p><strong>2. Set up a perimeter</strong> around the doctors, using the Citymaster as the centre point.</p>
+        <p><strong>3. At least one TRP accompanies each paramedic</strong> to the patient/client.</p>
+        <p><strong>4. Rescuing non-clients is not a priority</strong> — but is allowed as long as it doesn't endanger the client or your teammates.</p>`)
+    ]
+  },
+  {
+    name: "Mal 3 — Spies Like Us", folder: "malpractice", sort: 30,
+    pages: [
+      page("Read to the Players", `
+        <p>2113 hours. Liz drops you at the 83rd Street Clinic: "For the next two weeks you're Expert Team Three's Threat Response. Get me hard proof one of the four is the mole — until then my hands are tied. The mole's no use to me dead. Scan me?" You badge through to a garage of five ambulances, three Citymasters, a slung rotorcraft — a klaxon barks a crisis call and a loaded ambulance screams out. You reach Team Three's door and knock: a hotel-room-without-beds, trideo blaring. A red-haired woman beams, a balding man rises — "Seth Palatine. This is Vivianne Geldhausmann." "Call me Viv!" A young man in a silk kimono won't look up from the trid: Gordon Kurtz. "There's also Shawn — think he might be sleeping." A short man with a ponytail and three metallic jackports gleaming in his forehead pads in, waves, says nothing.</p>`),
+      page("Hooks & Behind the Scenes", `
+        <p><strong>Hooks.</strong> Awkward and disorienting: the runners are working <em>for</em> a megacorp, following its rules, while some of Team Three treat mere TRPs as a lower caste. Let that chafe — but the job is to protect the docs no matter what. They're TRPs for the full 14-day shift; the fake SINs pay two weeks either way, so they walk with something even if they never find the mole, and must stay in character even after they do.</p>
+        <p><strong>Behind the Scenes.</strong> The team checks in and claims bunks (DocWagon EMT map, book p.36). Dispatch inspects each weapon and issues 10 gel or 10 stun rounds + clips plus 1 signed-for real round (returned unless used). Extra kit on request — medkits, grenades, more Narcoject, armor. Each vehicle carries 10 flash + 10 smoke grenades and 50 spare Narcoject rounds for rifles/pistols.</p>`),
+      page("The Cast — Expert Team Three", `
+        <p><strong>Seth Palatine</strong> — balding, devout, business-like leader; first responder scarred by the Night of Rage. <strong>Vivianne "Viv" Geldhausmann</strong> — red-haired team psychiatrist, relentlessly upbeat, widow of a murdered Lone Star informant. <strong>Gordon "Hawkeye" Kurtz</strong> — kimono-wearing wiseguy, secret physical adept and stimulant-fuelled embezzler. <strong>Shawn Ferrer</strong> — soft-spoken ponytailed dwarf rigger, forever yo-yoing, and the <em>default mole</em>. See the Cast compendium for full stat blocks; Legwork below for what contacts reveal about each.</p>`),
+      page("Dropping Clues & Debugging", `
+        <p>Little can go wrong: as long as the runners don't pick a fight, point fingers, or brag about DocWagon staff they've killed, Team Three accepts them at face value. If they threaten or draw on Liz, she humours them, defuses it, distances herself — and quietly stops trusting Bob's judgement, leaving the runners with no gear, no nuyen, no prospects.</p>`)
+    ]
+  },
+  {
+    name: "Mal 4 — Crash Course", folder: "malpractice", sort: 40,
+    pages: [
+      page("Read to the Players", `
+        <p>"Expert Team Three! Report to ambulance 844-01! Crisis on Thomas and Fairview — <em>immediately!</em>" The klaxon startles you into motion; medics grab jackets and hats and charge for the garage. Shawn drives, Gordon rides shotgun as the Citymaster lurches out under siren. "Here's the situation, terps," Seth briefs you: "Client's a Miss Onizuka, 23, registered datajack and headware memory — caller reported severe head trauma, gunfire in the background." At the site — Thomas and Fairview, a T-intersection — small- and medium-caliber fire crackles; a chewed-up Leyland-Rover makes a barricade, two Patrol-Ones sit sideways across the street. "C'mon terp, get a move on! The longer we wait, the sooner she'll die!"</p>`),
+      page("Hooks & Behind the Scenes", `
+        <p><strong>Hooks.</strong> The runners' first real HTR run — and the first time they may feel they're betraying their own kind. A shadowrunning team (merc, rigger, two street sams, a decker) hit a Lone Star facility; the decker <strong>Onizuka</strong> was nearly killed by black IC and dump shock grabbing files that expose the local Star director's embezzling. Four corrupt officers — the only ones allowed to answer the call, no backup — have orders to shoot the runners "while resisting arrest."</p>
+        <p><strong>Behind the Scenes.</strong> Lone Star officers: Threat/Pro 3/3, Partial Heavy Armor (6/4), HK227-S SMG + Ruger Thunderbolt; use Under the Influence's Foot Patrol Officer (book p.20) or SRII's Street Cop. Runners: SRII Mercenary/Rigger/Street Samurai + a Decker (VR2.0 p.79). Viv and Gordon fetch a stretcher; the officers hold fire the moment they see DocWagon colours approaching the runners.</p>`),
+      page("The Run — Two Resolutions", `
+        <p><strong>Option One — "I Fought the Law":</strong> an officer approaches, claims the decker escaped custody and is within his jurisdiction, then escalates from veiled legal threats to racial slurs and graphic insults — trying to bait the runners into the <em>first</em> violent move, which voids DocWagon's jurisdiction and lets the Star fire legally. A DocWagon Etiquette (3) Test (1 success) reminds a PC that the Star won't fire on DocWagon unless fired upon, and that proper procedure doesn't match what this officer is proposing.</p>
+        <p><strong>Option Two — "Cross-Eyed &amp; Painless":</strong> the runners shadow the medics back to the Citymaster as mobile cover, ask to ride along with their fallen decker, and — if not flatly refused — try to <strong>carjack the Citymaster</strong>, taking a medic or the decker hostage to bluff the PCs into dropping weapons. They won't shoot hostages but will fire if threatened; they want the decker safe from DocWagon handing her to Lone Star.</p>`),
+      page("Dropping Clues & Debugging", `
+        <p>If the runners shoot first at the Star, they've overstepped DocWagon jurisdiction and the cops may fire with impunity (focusing the Citymaster and any PC aiding the runners); officers retreat if the decker seems dead or three take a Serious wound. Either way the PCs get reamed for risking a lawsuit and may blow their cover. DocWagon PCs, trained for exactly this, have the advantage — attacking in defiance of that training penalises them and the whole TRP team.</p>`)
+    ]
+  },
+  {
+    name: "Mal 5 — Chicken Soup", folder: "malpractice", sort: 50,
+    pages: [
+      page("Read to the Players", `
+        <p>"Hey terps," Gordon says over the intercom, "delicate situation — I'll patch the client through." A woman's voice: "My name is Gloria Tanaka. I'm assistant to Peter Barnsworth — he has a DocWagon bracelet. We work for Parashield, Incorporated; we train and sell security paranimals. Mr. Barnsworth sold some trained <strong>cockatrii</strong> to a Renraku subsidiary… paperwork mix-up. Half an hour ago they got out of their cages — there was screaming and squawking, and now everyone's lying paralyzed on the floor. The cockatrii paralyze you when they escape. I climbed onto a crate — think I twisted my ankle. There's fifty of them loose in here, plus me and Mr. Barnsworth and the workers. They were sedated for shipment, but it's wearing off, and if they wake and see all these people down, they'll start eating them. Don't hurt them — Parashield puts 200,000 nuyen into each. Get here fast." Gunshots echo from the far end of the warehouse.</p>`),
+      page("Hooks & Behind the Scenes", `
+        <p><strong>Hooks.</strong> Utterly absurd at first — wading through a sea of groggy paranormal chickens to save people — then a race against time before the "Chickens of Doom" fully revive. <strong>Behind the Scenes.</strong> Yakuza operatives sabotaged the cages' master environment computer as a distraction to hit a nearby Mafia weapons shipment; now a yakuza vs Knight-Errant gun battle rages through the docks. Seth judges it too dangerous for the medics inside — the TRPs must carry the clients out to them. Of eight paralyzed victims, only <strong>Peter Barnsworth</strong> and the warehouse manager are DocWagon clients; the other six are workers.</p>`),
+      page("The Run — Crying Fowl", `
+        <p>The drugged cockatrii are docile, not asleep: they keep all standard powers but attack at <strong>+2 TN</strong>, with Quickness and Reaction halved (round down); a hit still does <strong>8M</strong> (SRII p.222/233). Their real enemy is <strong>noise</strong>. Any sound louder than casual conversation startles nearby birds; a single <strong>gunshot fully wakes 3D6</strong> cockatrii, who then ignore the sedative — for every shot fired, another 3D6 revive. Best rescue: the roof-mounted <strong>gripper crane</strong> (access ladder at the SE corner → 8×6-ft control platform; Perception (5) to work the controls) — one PC rides the crane while another positions it to lift clients out. After the fifth rescue the cockatrii are fully awake and will shred anyone still on the floor. Gordon will make a daring crate-hop rescue (taking a Serious Stun wound) rather than lose the last victim.</p>`),
+      page("Dropping Clues & Debugging", `
+        <p>If the runners kill any cockatrii, Parashield sues DocWagon and the guilty PC is put on probation until the case resolves — a real drag on promotion. If they ignore Gloria's warning and start shooting, they trigger a stampede that endangers everyone on the floor and earns a brutal official chewing-out. Then proceed to <strong>Sleepless in Seattle</strong>.</p>`)
+    ]
+  },
+  {
+    name: "Mal 6 — Sleepless in Seattle", folder: "malpractice", sort: 60,
+    pages: [
+      page("Read to the Players", `
+        <p>Days of non-stop work; you're wiped. Peeling off armor that reeks like a wet sasquatch, you ease onto your bunk — and the telecom chirps you awake. Liz's face, flustered: "Glad I caught you. Someone tampered with the security logs. I checked the DNA records — an unknown user accessed the files about three hours ago. I think the mole will make the drop soon. Be on the lookout for—" A klaxon drowns her out: "Expert Team Three! Report for duty!" "Dammit — keep your eyes open. Good luck!" You grab gear and run. En route, a faint <em>pop</em>, then Shawn: "Brace for impact!" The Citymaster shudders, veers right, grinds along concrete and slams to a stop. "Front right tire blew — swerved into a street light," Shawn says. "Radio's down; impact must've jarred the transmitter. There's a telecom booth ten meters off — be right back."</p>`),
+      page("Hooks & Behind the Scenes", `
+        <p><strong>Hooks.</strong> The real punchy, no-sleep life of a DocWagon EMT — and the runners' <em>best</em> chance to catch the mole in the act. Encourage paranoia; don't give the players room to breathe. <strong>Behind the Scenes.</strong> The mole's "window" to transfer the stolen DNA/medical data to Brown is nearly up, so he rigged the tire to blow near a public telecom and blew it the moment he spotted one — the crash is his excuse to "call dispatch." Slot any GM-built emergency here (see the optional-encounter list) or run one of the training scenarios; DocWagon PCs may have already met these in Train in Vain.</p>`),
+      page("Optional Emergency Calls", `
+        <p>The specific call is the GM's to build (these double as Train in Vain training runs): a Mr. Johnson stiffed his runners and is being hunted, his Platinum bracelet tripped; a plane/helicopter down in Elliot Bay (Osprey II airlift in bad weather); a yakuza/Mafia firefight with clients in the crossfire; a Crisis Response Team cleaning up an exploded tanker truck; a high-rise hostage who is a Platinum client (heart-attack life-sign spike); an apartment fire spreading out of control; a Brackhaven Investments board member hurt in a terrorist attack; a go-gang carjacking the Citymaster en route; an I-405 traffic altercation where a pregnant Basic-Service client goes into premature labor; pulling a Standard Response Team out of a firefight. (Don't stack them all into one over-the-top scene.)</p>`),
+      page("The Run — Catching the Mole", `
+        <p>The tire is the trap. <strong>Perception (8)</strong> shows the tread was hit by intense heat where it looks worst; <strong>Demolitions (5)</strong> reveals a tiny explosive charge; <strong>Electronics (7)</strong> shows the radio was intentionally sabotaged. A PC on the public telecom can run <strong>Computer (8)</strong> or <strong>Electronics (10)</strong> to read the user logs: the most recent user just transferred files to an LTG number. That's enough evidence to give Liz, who arrives with ISD muscle to take the mole for questioning — let the players roleplay the unmasking to the hilt. Alternatively the mole bolts in a DocWagon vehicle: run the ultimate Seattle high-speed chase.</p>`),
+      page("Dropping Clues & Debugging", `
+        <p><strong>The dead-man's switch:</strong> as a safeguard Brown had the mole queue a "dead mail" — an e-mail reading only <em>"Cleopatra,"</em> set to reach Brown at midnight unless the mole delays it every 24 hours. Capture the mole and the mail fires, warning Brown his contact is blown → Brown panics (go to <strong>Déjà Vu</strong>). If the PCs accuse the <em>wrong</em> person, the ISD goons haul the innocent away, the real mole realises he's made and slips off to warn Brown — who picks him up, kills him, and dumps the body in Puget Sound (also → Déjà Vu). If the players just lounge in the Citymaster and miss the transfer, give them a second shot back at the clinic (a Liz call: "we need the mole's identity <em>now</em>").</p>`)
+    ]
+  },
+  {
+    name: "Mal 7 — Déjà Vu", folder: "malpractice", sort: 70,
+    pages: [
+      page("Read to the Players", `
+        <p>The call came three minutes ago: an elf boy, <strong>Salthili Truan</strong>, reported injured in the rich Spring Lakes neighborhood of Renton — low blood pressure, irregular heartbeat, probably fell at the new Spring Lakes Apartments construction site. One person short, it feels like an easy one: just a hurt kid. The twelve-foot gates stand wide open; skeletal building frameworks pierce the night, stacks of I-beams and eight-foot pipe scattered across the yard, a drainage ditch spanned by a dirt bridge. A small crumpled form lies at the base of the nearest building. As the Citymaster crosses the bridge, sensors pick up the boy's beacon — then a <strong>bright light</strong> floods the cab from the second floor; a ball of light grows from a pinprick and detonates in front of you, jolting you wild in your restraints. A half-second later a second blast hits the ground to your right, and the world tips drunkenly sideways.</p>`),
+      page("Hooks & Behind the Scenes", `
+        <p><strong>Hooks.</strong> After two weeks of routine, this shatters the SOP. Something should recall Bob's ambush story and make the runners realise how much trouble they're in — they're fighting for their lives and the medics'. <strong>Behind the Scenes.</strong> This fires once the PCs accuse someone (right or wrong). Frantic to salvage his blown operation, <strong>Brown</strong> decides to slaughter Expert Team Three: he kidnapped the elf boy on his way home, dropped him bound and unconscious from the fourth floor to trigger the DocWagon call, and hacked the Response Team Allocation algorithm so Team Three catches any Spring Lakes call — re-staging the very ambush that "killed" Doctor Bob.</p>`),
+      page("The Run — Opposition", `
+        <p>Brown places two operatives with <strong>LAWs</strong> on the second story of the building by the gate and guides the rockets with his tactical computer (Shadowtech p.53) to detonate just in front of and right of the Citymaster — unless the driver makes a <strong>Car (16)</strong> Test, the blast flips it into the ditch. Then <strong>five operatives</strong> reveal (two in the big pipes, three behind steel girders that block heat/IR): FN-HARs or Ingram LMGs, camo jackets, explosive rounds — use Former Military Officer, Low-Grade (Contacts p.6) or SRII Mercenary. They pick off anyone leaving the Citymaster and shoot the gas tank; the LAW gunners take 5 turns to reach ground. Brown slips out the workman's entrance and drives to rendezvous with survivors. The medics try to revive the boy — reach him within <strong>7 turns</strong> or he dies.</p>
+        <p><em>Tougher variant:</em> swap explosive rounds for APDS, or the LAWs for Ballista multi-role launchers (Fields of Fire p.42); resolve rockets with Brown's Gunnery + tactical-computer bonuses.</p>`),
+      page("Dropping Clues & Debugging", `
+        <p>Don't decimate the party, but Brown's mercs are trained and well-paid — they should get their pound of flesh. A captured operative, under <strong>Interrogation (8)</strong>, gives up the meet location and the two midnight-blue Superkombi vans Brown's men arrived in; enterprising PCs may tail Brown (any follow-up is the GM's to devise). If the runners blow cover instead of finishing the run as DocWagon staff, see Picking Up the Pieces for the consequences.</p>`)
+    ]
+  },
+  {
+    name: "Mal 8 — Picking Up the Pieces", folder: "malpractice", sort: 80,
+    pages: [
+      page("Wrap-Up", `
+        <p>Expose the mole and the runners have succeeded. They meet Bob at <em>You Should Not Eat So Much!</em> to collect: he asks who they think is behind Brown, shares his own theory (whatever the GM wants known), maybe a hard-copy <em>Threats</em> Shadowland posting, and swears to go after the bad guys with everything he has — a springboard for future runs. <strong>Leaving the 83rd Street Clinic early</strong> (before the 14-day shift ends) breaks the contract: Bob pays only 5,000¥, and the alternate TRP team suffers Déjà Vu and is slaughtered. <strong>Killing the mole</strong> instead of turning him over means no exposure Karma, a possible murder charge, and — unless the "accident" is airtight — a trail back to the PCs. Never finding the mole: they finish the shift (ending days after Sleepless in Seattle), keep the fake SIN + gear + 3,400¥, skip the finale, but can try again in six weeks.</p>`),
+      page("Awarding Karma", `
+        <p>Team Karma (individual Karma per SRII p.199):</p>
+        <ul>
+          <li><strong>Survival</strong> — 1 point</li>
+          <li><strong>Threat</strong> — 2 points</li>
+          <li><strong>Mole is exposed</strong> — 1 point*</li>
+          <li><strong>Mole is captured</strong> — 1 point</li>
+          <li><strong>Injured non-clients saved</strong> — 1 point per 5 saved (as well as clients)</li>
+          <li><strong>A paramedic dies through the runners' negligence</strong> — −1 point each</li>
+        </ul>
+        <p><em>*Ignore the "mole exposed" award if the runners kill the mole on discovering his identity.</em></p>`),
+      page("The Bigger Picture — Brown as Enemy", `
+        <p>Several questions are left for the GM: how were Brown and his organisation using the DNA and medical records? Who is Brown, and whom does he represent — a megacorp, a genetic-research player, the UCAS government, "a secret cabal of mantis spirits" (Threats)? Might he even be doing good? Most groups finish without ever meeting him, having earned a well-armed, unknown, secretive <strong>Enemy</strong> — the very essence of one (Shadowrun Companion p.71–75). Malpractice is a clean on-ramp to running an Enemy in a campaign; the ambush may well drive the PCs to hunt down who Brown is and why his people guard their secret so fiercely.</p>`)
+    ]
+  },
+  {
+    name: "Mal — Legwork: Team Three & Brown", folder: "malpractice", sort: 90,
+    pages: [
+      page("How to Use", `
+        <p>Each table below lists the contacts likely to know something, the target number to get it, and the successes needed for richer answers. Robert Khamdeng has two tables (as <em>Morphine</em> and as <em>Doctor Bob</em>); Gordon Kurtz has two (different info from different contact types). Summarised from the Missions Legwork section (book p.46–47).</p>`),
+      page("Morphine / Doctor Bob", `
+        <p><strong>Morphine</strong> — Street contacts, TN 7 (Shadowland TN 6): freelance shadowrunner with no permanent team; rumoured shaman who keeps his head low "like he's hiding from somebody"; used to work for a corp — not one of the Big Eight; at 5+ successes, his real first name is <em>Robert</em>.</p>
+        <p><strong>Doctor Bob / Robert Khamdeng</strong> — Media/Corporate/Policlub/Paramedic contacts, TN 8 (Shadowland TN 10): the DocWagon paramedic all over the news ~a decade back, won a humanitarian award; at 4+, was seen at a couple of Humanis Policlub meetings during the 2049 recruitment drive — "maybe just curious, or needed something to turn to." Not a Brackhaven or Vogel voter.</p>`),
+      page("Seth Palatine & Viv Geldhausmann", `
+        <p><strong>Seth Palatine</strong> — Paramedic/Corporate contacts, TN 5: keeps to himself, reads the Koran, nobody more dedicated to the job; at 3+, one of the first on scene during the <em>Night of Rage</em> — Metroplex Guardsmen kept him from the dying metahumans; at 4+, the Sons of Sauron bombed the apartment building his sick mother lived in, and the shock finished her.</p>
+        <p><strong>Vivianne Geldhausmann</strong> — Paramedic/Corporate contacts, TN 6: the nicest person, relentless optimist; at 2+, her husband <em>Jacob</em> was killed four or five years ago in the big gang war with the Ancients; at 3+, Jacob was a Lone Star "Cybersnoop" — "that's the only time I've ever seen her sad."</p>`),
+      page("Gordon Kurtz & Shawn Ferrer", `
+        <p><strong>Gordon Kurtz</strong> — Paramedic/Corporate contacts, TN 5: rumoured rogue army colonel; loudmouthed wisecracker who's turned mean lately, never seems to sleep; at 4+, "maybe he learned some deep dark secret when he worked for <em>Crashcart</em>."</p>
+        <p><strong>"Hawkeye" (Gordon Kurtz)</strong> — Street/Fixer contacts, TN 6: a big supplier of "things of a chemical nature," top-notch stuff, probably sourced from a corp; edgy for the past three months.</p>
+        <p><strong>Shawn Ferrer</strong> — Paramedic/Corporate/CAS-Military contacts, TN 5: novahot programmer, Rice grad, works for Ares; quiet and private; maybe worked for the Azzies; spent time in the CAS military, "came well recommended, never tells war stories"; at 4+, "his bio lists him as a <em>dwarf</em> — ain't that weird?" (a data-entry tell of a fabricated identity).</p>`),
+      page("Mr. Brown (Earl Brown)", `
+        <p><strong>"Mr. Brown"</strong> — Policlub or UCAS-Military contacts, TN 9 (Shadowland TN 10, 48-hour search): a "Mr. Brown" was a small-time hood shot robbing a bank ("might as well be Mr. Drek") — a decoy identity; at 2+, "just what are you mixed up with, chummer?"; at 3+, the real Brown got a <em>dishonorable discharge</em> from the UCAS Army last decade, scuttlebutt says for brutality; at 4+, he was an unofficial liaison to <em>General Trahn</em> during the Compensation Army business last year, under an alias.</p>`)
+    ]
   }
 ];
 

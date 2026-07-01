@@ -1,0 +1,168 @@
+{
+  "_id": "f066d8805fed4039",
+  "name": "Mal 1 — Never Deal With the Wagon",
+  "pages": [
+    {
+      "_id": "1fe6643c9223cc78",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>\"Mama, look! The boats!\" A little boy caroms off your leg racing for the window overlooking <strong>Pier 60</strong>, then gapes up at you. His mother yanks him back, apologising, and hurries off. All around, suits stare furtively while pretending not to. At a big booth loaded with enough food for a family sits your man — \"Morphine\" — in a faded \"Sonics in 53!\" shirt: \"Hoi! Glad you came. Sit, sit — no way I finish this alone. Wasn't sure what you'd like, so I ordered two of everything.\"</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "f8f4513598af3a00",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> \"Morphine\" is <strong>Robert Khamdeng — \"Doctor Bob\"</strong>, an ex-DocWagon paramedic. He needs unknowns, not his own linked regulars. The job: undercover as DocWagon TRP for about a week; airtight cover IDs that only break if the team makes a mistake. Payment more than doubles his cash offer with non-monetary perks. Hard deadline: <strong>four weeks</strong>.</p>\n        <p><strong>Behind the Scenes.</strong> Bob tells his story — Brown's old offer to buy DocWagon DNA/records, his refusal, the ambush that killed his team, his flight into the shadows — and the new job: a mole is <em>still</em> feeding Brown from inside an HTR team, and Bob wants them found. If the PCs already work for DocWagon, the request comes from <strong>Liz Yamato</strong> (Internal Security) as a \"grave threat\" assignment instead.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "5a72312fee45b663",
+      "name": "The Run & Opposition",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>No combat — a social meet. Bob won't be milked like a Johnson: <em>\"My name is Khamdeng, not Johnson — I'm as poor as you are.\"</em> He's spent nearly everything on the cover IDs and training. A local trid station has offered him 20,000¥ for his story plus the mole's; from that he'll pay the team a <strong>15,000¥ bonus</strong> on success, and (grudgingly) throw in his third-row Supersonics season pass if a PC really pushes. Refusing to eat with him or hard-bargaining before he's finished may make him apologise and walk.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "14963d076645218a",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>If the team has no street contacts, a corporate contact calls instead; answer questions from the Doctor Bob / Robert Khamdeng entry in the Legwork section (book p.46). Veteran \"never trust a Johnson\" players may balk — a little courtesy keeps Bob at the table.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "e10b80074b25d8c2",
+  "sort": 10,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!f066d8805fed4039"
+}

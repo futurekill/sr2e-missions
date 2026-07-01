@@ -1,0 +1,144 @@
+{
+  "_id": "129471a3a36e3b02",
+  "name": "Liz Yamato",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p><strong>The handler.</strong> A dwarf agent of DocWagon's <strong>Internal Security Division</strong> and Doctor Bob's old friend, who traced the leak to Expert Team Three. She recruits the team as Temporary Response Personnel, runs their 48-hour crash-course, checks in each afternoon for evidence, and arrives with ISD muscle to take the exposed mole away. She takes the job dead seriously — one wrong move blows DocWagon's security, the mole, and her career. Introduces herself at the Renton Clinic Citymaster with the counter-sign: \"Any of you need a shot of <em>Morphine</em>?\"</p>\n      <p><em>No published stat block (support NPC — attributes here are an estimate for a capable ISD field agent; GM's discretion). Appears throughout Malpractice (Missions p.33–45).</em></p>",
+    "race": "dwarf",
+    "professionalRating": 3,
+    "body": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "strength": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "essence": {
+      "value": 6,
+      "max": 6
+    },
+    "magic": {
+      "value": 0,
+      "max": 0,
+      "tradition": "none",
+      "type": "none",
+      "totem": ""
+    },
+    "reaction": {
+      "base": 0,
+      "mod": 0,
+      "value": 4
+    },
+    "conditionMonitor": {
+      "physical": {
+        "value": 0,
+        "max": 10,
+        "overflow": 0
+      },
+      "stun": {
+        "value": 0,
+        "max": 10,
+        "overflow": 0
+      },
+      "overflow": 0
+    },
+    "armor": {
+      "ballistic": 4,
+      "impact": 3
+    },
+    "dicePools": {
+      "combat": {
+        "value": 0,
+        "max": 0,
+        "bonus": 0
+      },
+      "magic": {
+        "value": 0,
+        "max": 0,
+        "bonus": 0
+      }
+    },
+    "initiative": {
+      "base": 4,
+      "dice": 1,
+      "mod": 0,
+      "value": 4
+    },
+    "threatRating": 3,
+    "nuyen": 0,
+    "movement": {
+      "walk": 4,
+      "run": 12
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": "02f8a9137d0abcda",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "prototypeToken": {
+    "name": "Liz Yamato",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff"
+    },
+    "disposition": 1
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!129471a3a36e3b02"
+}

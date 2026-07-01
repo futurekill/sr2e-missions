@@ -1,0 +1,144 @@
+{
+  "_id": "823e4eb22802d9b6",
+  "name": "Gordon \"Hawkeye\" Kurtz",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>A jovial, wisecracking ladies' man who looks eighteen despite being in his late twenties — and a secret <strong>physical adept</strong>. Ex-Crashcart, hired by DocWagon in late 2052, he found the job even more time-consuming and started leaning on <strong>stimulants</strong> to party through 15–20-hour days on ten of sleep a week. To pay his dealers he <strong>embezzles money and supplies from DocWagon</strong> — a real secret, but not the one the team is hunting. When his dose wears off he turns bitter and mean, picking on one person until he's near a punch in the mouth. <em>Not the mole — but a red herring with plenty to hide.</em></p>\n      <p><strong>Adept Powers:</strong> Combat Sense (2), Improved Body (2) [Body 5→7], Pain Resistance (1). <strong>Skills:</strong> Armed Combat 1 [Clubs 3, AZ-150 Stun Baton 5], Athletics 5, Biotech 5 [First Aid 7], Car 3, Firearms 2 [Heavy Pistol 4, Ares Predator II 6], Gunnery 1 [Vehicle Cannons 3], Etiquette (Corporate) 3, Etiquette (DocWagon) 3, Etiquette (Street) 4, Negotiation 3 [Fast Talk 5], Unarmed Combat 2 [Subduing Combat 4], Urban Stealth 3.</p>\n      <p><strong>Gear:</strong> Ares Predator II [heavy pistol, 15 clip, SA, gel 7M Stun, 3 spare clips], AZ-150 Stun Baton [6S Stun], DocWagon Armor Jacket (5/3), DocWagon Kit, Flash-Pak, Micro Flare, Eurocar Westwind 2000 (notched dashboard).</p>\n      <p><em>Initiative 3 + 1D6. Threat/Professional 3/3 (+2 dice from Combat Sense). Missions p.49.</em></p>",
+    "race": "human",
+    "professionalRating": 3,
+    "body": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "strength": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 2,
+      "mod": 0,
+      "value": 2,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "essence": {
+      "value": 6,
+      "max": 6
+    },
+    "magic": {
+      "value": 6,
+      "max": 6,
+      "tradition": "none",
+      "type": "full",
+      "totem": ""
+    },
+    "reaction": {
+      "base": 0,
+      "mod": 0,
+      "value": 3
+    },
+    "conditionMonitor": {
+      "physical": {
+        "value": 0,
+        "max": 10,
+        "overflow": 0
+      },
+      "stun": {
+        "value": 0,
+        "max": 10,
+        "overflow": 0
+      },
+      "overflow": 0
+    },
+    "armor": {
+      "ballistic": 5,
+      "impact": 3
+    },
+    "dicePools": {
+      "combat": {
+        "value": 0,
+        "max": 0,
+        "bonus": 0
+      },
+      "magic": {
+        "value": 0,
+        "max": 0,
+        "bonus": 0
+      }
+    },
+    "initiative": {
+      "base": 3,
+      "dice": 1,
+      "mod": 0,
+      "value": 3
+    },
+    "threatRating": 3,
+    "nuyen": 0,
+    "movement": {
+      "walk": 5,
+      "run": 15
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": "02f8a9137d0abcda",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "prototypeToken": {
+    "name": "Gordon \"Hawkeye\" Kurtz",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff"
+    },
+    "disposition": 0
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!823e4eb22802d9b6"
+}

@@ -1,0 +1,168 @@
+{
+  "_id": "8ce2963849fb2c1a",
+  "name": "Mal 7 — Déjà Vu",
+  "pages": [
+    {
+      "_id": "a62e52196b869ada",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>The call came three minutes ago: an elf boy, <strong>Salthili Truan</strong>, reported injured in the rich Spring Lakes neighborhood of Renton — low blood pressure, irregular heartbeat, probably fell at the new Spring Lakes Apartments construction site. One person short, it feels like an easy one: just a hurt kid. The twelve-foot gates stand wide open; skeletal building frameworks pierce the night, stacks of I-beams and eight-foot pipe scattered across the yard, a drainage ditch spanned by a dirt bridge. A small crumpled form lies at the base of the nearest building. As the Citymaster crosses the bridge, sensors pick up the boy's beacon — then a <strong>bright light</strong> floods the cab from the second floor; a ball of light grows from a pinprick and detonates in front of you, jolting you wild in your restraints. A half-second later a second blast hits the ground to your right, and the world tips drunkenly sideways.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "1d5695089adb47d3",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> After two weeks of routine, this shatters the SOP. Something should recall Bob's ambush story and make the runners realise how much trouble they're in — they're fighting for their lives and the medics'. <strong>Behind the Scenes.</strong> This fires once the PCs accuse someone (right or wrong). Frantic to salvage his blown operation, <strong>Brown</strong> decides to slaughter Expert Team Three: he kidnapped the elf boy on his way home, dropped him bound and unconscious from the fourth floor to trigger the DocWagon call, and hacked the Response Team Allocation algorithm so Team Three catches any Spring Lakes call — re-staging the very ambush that \"killed\" Doctor Bob.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "8c04f78fbbf81b06",
+      "name": "The Run — Opposition",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Brown places two operatives with <strong>LAWs</strong> on the second story of the building by the gate and guides the rockets with his tactical computer (Shadowtech p.53) to detonate just in front of and right of the Citymaster — unless the driver makes a <strong>Car (16)</strong> Test, the blast flips it into the ditch. Then <strong>five operatives</strong> reveal (two in the big pipes, three behind steel girders that block heat/IR): FN-HARs or Ingram LMGs, camo jackets, explosive rounds — use Former Military Officer, Low-Grade (Contacts p.6) or SRII Mercenary. They pick off anyone leaving the Citymaster and shoot the gas tank; the LAW gunners take 5 turns to reach ground. Brown slips out the workman's entrance and drives to rendezvous with survivors. The medics try to revive the boy — reach him within <strong>7 turns</strong> or he dies.</p>\n        <p><em>Tougher variant:</em> swap explosive rounds for APDS, or the LAWs for Ballista multi-role launchers (Fields of Fire p.42); resolve rockets with Brown's Gunnery + tactical-computer bonuses.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "9cee0cf6ace21d38",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Don't decimate the party, but Brown's mercs are trained and well-paid — they should get their pound of flesh. A captured operative, under <strong>Interrogation (8)</strong>, gives up the meet location and the two midnight-blue Superkombi vans Brown's men arrived in; enterprising PCs may tail Brown (any follow-up is the GM's to devise). If the runners blow cover instead of finishing the run as DocWagon staff, see Picking Up the Pieces for the consequences.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "e10b80074b25d8c2",
+  "sort": 70,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!8ce2963849fb2c1a"
+}

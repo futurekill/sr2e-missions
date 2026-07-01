@@ -1,0 +1,132 @@
+{
+  "_id": "b80753165f1bad6a",
+  "name": "Mal 8 — Picking Up the Pieces",
+  "pages": [
+    {
+      "_id": "22552c4fdefc0c57",
+      "name": "Wrap-Up",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Expose the mole and the runners have succeeded. They meet Bob at <em>You Should Not Eat So Much!</em> to collect: he asks who they think is behind Brown, shares his own theory (whatever the GM wants known), maybe a hard-copy <em>Threats</em> Shadowland posting, and swears to go after the bad guys with everything he has — a springboard for future runs. <strong>Leaving the 83rd Street Clinic early</strong> (before the 14-day shift ends) breaks the contract: Bob pays only 5,000¥, and the alternate TRP team suffers Déjà Vu and is slaughtered. <strong>Killing the mole</strong> instead of turning him over means no exposure Karma, a possible murder charge, and — unless the \"accident\" is airtight — a trail back to the PCs. Never finding the mole: they finish the shift (ending days after Sleepless in Seattle), keep the fake SIN + gear + 3,400¥, skip the finale, but can try again in six weeks.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "18dad081fd837bdd",
+      "name": "Awarding Karma",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Team Karma (individual Karma per SRII p.199):</p>\n        <ul>\n          <li><strong>Survival</strong> — 1 point</li>\n          <li><strong>Threat</strong> — 2 points</li>\n          <li><strong>Mole is exposed</strong> — 1 point*</li>\n          <li><strong>Mole is captured</strong> — 1 point</li>\n          <li><strong>Injured non-clients saved</strong> — 1 point per 5 saved (as well as clients)</li>\n          <li><strong>A paramedic dies through the runners' negligence</strong> — −1 point each</li>\n        </ul>\n        <p><em>*Ignore the \"mole exposed\" award if the runners kill the mole on discovering his identity.</em></p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "7276c8068b98a568",
+      "name": "The Bigger Picture — Brown as Enemy",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Several questions are left for the GM: how were Brown and his organisation using the DNA and medical records? Who is Brown, and whom does he represent — a megacorp, a genetic-research player, the UCAS government, \"a secret cabal of mantis spirits\" (Threats)? Might he even be doing good? Most groups finish without ever meeting him, having earned a well-armed, unknown, secretive <strong>Enemy</strong> — the very essence of one (Shadowrun Companion p.71–75). Malpractice is a clean on-ramp to running an Enemy in a campaign; the ambush may well drive the PCs to hunt down who Brown is and why his people guard their secret so fiercely.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "e10b80074b25d8c2",
+  "sort": 80,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!b80753165f1bad6a"
+}

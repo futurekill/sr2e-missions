@@ -1,0 +1,204 @@
+{
+  "_id": "a0d2270ec223911b",
+  "name": "Mal — Legwork: Team Three & Brown",
+  "pages": [
+    {
+      "_id": "8744049cf7f1c5e8",
+      "name": "How to Use",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Each table below lists the contacts likely to know something, the target number to get it, and the successes needed for richer answers. Robert Khamdeng has two tables (as <em>Morphine</em> and as <em>Doctor Bob</em>); Gordon Kurtz has two (different info from different contact types). Summarised from the Missions Legwork section (book p.46–47).</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "d02be34ff0cb176d",
+      "name": "Morphine / Doctor Bob",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Morphine</strong> — Street contacts, TN 7 (Shadowland TN 6): freelance shadowrunner with no permanent team; rumoured shaman who keeps his head low \"like he's hiding from somebody\"; used to work for a corp — not one of the Big Eight; at 5+ successes, his real first name is <em>Robert</em>.</p>\n        <p><strong>Doctor Bob / Robert Khamdeng</strong> — Media/Corporate/Policlub/Paramedic contacts, TN 8 (Shadowland TN 10): the DocWagon paramedic all over the news ~a decade back, won a humanitarian award; at 4+, was seen at a couple of Humanis Policlub meetings during the 2049 recruitment drive — \"maybe just curious, or needed something to turn to.\" Not a Brackhaven or Vogel voter.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "5eff3316ff564a9f",
+      "name": "Seth Palatine & Viv Geldhausmann",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Seth Palatine</strong> — Paramedic/Corporate contacts, TN 5: keeps to himself, reads the Koran, nobody more dedicated to the job; at 3+, one of the first on scene during the <em>Night of Rage</em> — Metroplex Guardsmen kept him from the dying metahumans; at 4+, the Sons of Sauron bombed the apartment building his sick mother lived in, and the shock finished her.</p>\n        <p><strong>Vivianne Geldhausmann</strong> — Paramedic/Corporate contacts, TN 6: the nicest person, relentless optimist; at 2+, her husband <em>Jacob</em> was killed four or five years ago in the big gang war with the Ancients; at 3+, Jacob was a Lone Star \"Cybersnoop\" — \"that's the only time I've ever seen her sad.\"</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "1511f1a6f927f8a7",
+      "name": "Gordon Kurtz & Shawn Ferrer",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Gordon Kurtz</strong> — Paramedic/Corporate contacts, TN 5: rumoured rogue army colonel; loudmouthed wisecracker who's turned mean lately, never seems to sleep; at 4+, \"maybe he learned some deep dark secret when he worked for <em>Crashcart</em>.\"</p>\n        <p><strong>\"Hawkeye\" (Gordon Kurtz)</strong> — Street/Fixer contacts, TN 6: a big supplier of \"things of a chemical nature,\" top-notch stuff, probably sourced from a corp; edgy for the past three months.</p>\n        <p><strong>Shawn Ferrer</strong> — Paramedic/Corporate/CAS-Military contacts, TN 5: novahot programmer, Rice grad, works for Ares; quiet and private; maybe worked for the Azzies; spent time in the CAS military, \"came well recommended, never tells war stories\"; at 4+, \"his bio lists him as a <em>dwarf</em> — ain't that weird?\" (a data-entry tell of a fabricated identity).</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "ab68a9c3e2cee5ea",
+      "name": "Mr. Brown (Earl Brown)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>\"Mr. Brown\"</strong> — Policlub or UCAS-Military contacts, TN 9 (Shadowland TN 10, 48-hour search): a \"Mr. Brown\" was a small-time hood shot robbing a bank (\"might as well be Mr. Drek\") — a decoy identity; at 2+, \"just what are you mixed up with, chummer?\"; at 3+, the real Brown got a <em>dishonorable discharge</em> from the UCAS Army last decade, scuttlebutt says for brutality; at 4+, he was an unofficial liaison to <em>General Trahn</em> during the Compensation Army business last year, under an alias.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "e10b80074b25d8c2",
+  "sort": 90,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!a0d2270ec223911b"
+}

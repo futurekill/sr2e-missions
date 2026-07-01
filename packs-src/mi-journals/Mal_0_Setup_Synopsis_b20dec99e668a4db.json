@@ -1,0 +1,132 @@
+{
+  "_id": "b20dec99e668a4db",
+  "name": "Mal 0 — Setup & Synopsis",
+  "pages": [
+    {
+      "_id": "2d755839fb1d39c5",
+      "name": "Premise",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Seattle, 2057. <strong>Robert \"Doctor Bob\" Khamdeng</strong> — once a DocWagon paramedic, now a shadowrunner — was approached years ago by a shadowy figure called <strong>Brown</strong> who wanted DocWagon clients' <strong>DNA samples and medical histories</strong>. Bob refused; three days later his rookie HTR team was ambushed and wiped out, and only dumb luck spared him. He let the world think he'd died and vanished into the shadows.</p>\n        <p>Now Bob has learned Brown had <em>another</em> DocWagon contact — a <strong>mole still working inside an HTR team</strong>. Through his old friend <strong>Liz Yamato</strong> (DocWagon Internal Security), he's traced it to <strong>Team Three</strong>, going on Expert Duty within a week. Bob hires the team to go undercover as DocWagon <strong>Temporary Response Personnel (TRP)</strong>, ride with Team Three, and unmask the mole.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "a11fb74822772c2a",
+      "name": "The Cast of Villains (GM's choice)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>The default mole is <strong>Shawn</strong>, a Team Three medic; the GM may pick a different one and adjust the clues. <strong>Brown</strong> and his organisation are deliberately open — a megacorp, a genetic-research player, the UCAS government, or \"a secret cabal of mantis spirits\" (Threats). His org plays to the mole's weaknesses (cash, power, BTLs, sex — all future blackmail leverage). Whatever you choose, Brown becomes a recurring <strong>Enemy</strong> in the PCs' lives (Enemy rules: <em>Shadowrun Companion</em> p.71–75).</p>\n        <p><strong>DE tie-in:</strong> leaving \"Brown's mysterious buyer of DNA and medical records\" vague lets a GM later imply a Renraku or Universal Brotherhood fingerprint, threading Malpractice into Double Exposure's bio-experiment conspiracy.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "dc39f6f320258976",
+      "name": "Running It / Getting Started",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Set in Seattle (relocatable to any DocWagon city; DocWagon lore in <em>NAGRL</em> p.41–47). Players may build DocWagon characters (<em>Shadowrun Companion</em> p.112) or run their usual shadowrunners and become temporary DocWagon medics over the adventure. If they're already DocWagon staff, <strong>Liz Yamato</strong> recruits them via the new TRP programme; if they're runners, <em>Train In Vain</em> is their crash course in not looking like a runner while wearing DocWagon colours.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "e10b80074b25d8c2",
+  "sort": 0,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!b20dec99e668a4db"
+}

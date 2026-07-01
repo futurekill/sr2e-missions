@@ -1,0 +1,204 @@
+{
+  "_id": "343214c9713a22d0",
+  "name": "Mal 6 — Sleepless in Seattle",
+  "pages": [
+    {
+      "_id": "f85c913e18c750a2",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Days of non-stop work; you're wiped. Peeling off armor that reeks like a wet sasquatch, you ease onto your bunk — and the telecom chirps you awake. Liz's face, flustered: \"Glad I caught you. Someone tampered with the security logs. I checked the DNA records — an unknown user accessed the files about three hours ago. I think the mole will make the drop soon. Be on the lookout for—\" A klaxon drowns her out: \"Expert Team Three! Report for duty!\" \"Dammit — keep your eyes open. Good luck!\" You grab gear and run. En route, a faint <em>pop</em>, then Shawn: \"Brace for impact!\" The Citymaster shudders, veers right, grinds along concrete and slams to a stop. \"Front right tire blew — swerved into a street light,\" Shawn says. \"Radio's down; impact must've jarred the transmitter. There's a telecom booth ten meters off — be right back.\"</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "3bc15556d422b713",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> The real punchy, no-sleep life of a DocWagon EMT — and the runners' <em>best</em> chance to catch the mole in the act. Encourage paranoia; don't give the players room to breathe. <strong>Behind the Scenes.</strong> The mole's \"window\" to transfer the stolen DNA/medical data to Brown is nearly up, so he rigged the tire to blow near a public telecom and blew it the moment he spotted one — the crash is his excuse to \"call dispatch.\" Slot any GM-built emergency here (see the optional-encounter list) or run one of the training scenarios; DocWagon PCs may have already met these in Train in Vain.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "a2d16075e9c16e57",
+      "name": "Optional Emergency Calls",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>The specific call is the GM's to build (these double as Train in Vain training runs): a Mr. Johnson stiffed his runners and is being hunted, his Platinum bracelet tripped; a plane/helicopter down in Elliot Bay (Osprey II airlift in bad weather); a yakuza/Mafia firefight with clients in the crossfire; a Crisis Response Team cleaning up an exploded tanker truck; a high-rise hostage who is a Platinum client (heart-attack life-sign spike); an apartment fire spreading out of control; a Brackhaven Investments board member hurt in a terrorist attack; a go-gang carjacking the Citymaster en route; an I-405 traffic altercation where a pregnant Basic-Service client goes into premature labor; pulling a Standard Response Team out of a firefight. (Don't stack them all into one over-the-top scene.)</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "4759927fbc19bd3e",
+      "name": "The Run — Catching the Mole",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>The tire is the trap. <strong>Perception (8)</strong> shows the tread was hit by intense heat where it looks worst; <strong>Demolitions (5)</strong> reveals a tiny explosive charge; <strong>Electronics (7)</strong> shows the radio was intentionally sabotaged. A PC on the public telecom can run <strong>Computer (8)</strong> or <strong>Electronics (10)</strong> to read the user logs: the most recent user just transferred files to an LTG number. That's enough evidence to give Liz, who arrives with ISD muscle to take the mole for questioning — let the players roleplay the unmasking to the hilt. Alternatively the mole bolts in a DocWagon vehicle: run the ultimate Seattle high-speed chase.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "e7515ed014f42601",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>The dead-man's switch:</strong> as a safeguard Brown had the mole queue a \"dead mail\" — an e-mail reading only <em>\"Cleopatra,\"</em> set to reach Brown at midnight unless the mole delays it every 24 hours. Capture the mole and the mail fires, warning Brown his contact is blown → Brown panics (go to <strong>Déjà Vu</strong>). If the PCs accuse the <em>wrong</em> person, the ISD goons haul the innocent away, the real mole realises he's made and slips off to warn Brown — who picks him up, kills him, and dumps the body in Puget Sound (also → Déjà Vu). If the players just lounge in the Citymaster and miss the transfer, give them a second shot back at the clinic (a Liz call: \"we need the mole's identity <em>now</em>\").</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "e10b80074b25d8c2",
+  "sort": 60,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!343214c9713a22d0"
+}

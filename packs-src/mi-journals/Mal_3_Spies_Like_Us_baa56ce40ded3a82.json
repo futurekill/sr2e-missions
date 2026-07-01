@@ -1,0 +1,168 @@
+{
+  "_id": "baa56ce40ded3a82",
+  "name": "Mal 3 — Spies Like Us",
+  "pages": [
+    {
+      "_id": "082b9a8a8d0f7923",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>2113 hours. Liz drops you at the 83rd Street Clinic: \"For the next two weeks you're Expert Team Three's Threat Response. Get me hard proof one of the four is the mole — until then my hands are tied. The mole's no use to me dead. Scan me?\" You badge through to a garage of five ambulances, three Citymasters, a slung rotorcraft — a klaxon barks a crisis call and a loaded ambulance screams out. You reach Team Three's door and knock: a hotel-room-without-beds, trideo blaring. A red-haired woman beams, a balding man rises — \"Seth Palatine. This is Vivianne Geldhausmann.\" \"Call me Viv!\" A young man in a silk kimono won't look up from the trid: Gordon Kurtz. \"There's also Shawn — think he might be sleeping.\" A short man with a ponytail and three metallic jackports gleaming in his forehead pads in, waves, says nothing.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "b238611f7a2a16bf",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> Awkward and disorienting: the runners are working <em>for</em> a megacorp, following its rules, while some of Team Three treat mere TRPs as a lower caste. Let that chafe — but the job is to protect the docs no matter what. They're TRPs for the full 14-day shift; the fake SINs pay two weeks either way, so they walk with something even if they never find the mole, and must stay in character even after they do.</p>\n        <p><strong>Behind the Scenes.</strong> The team checks in and claims bunks (DocWagon EMT map, book p.36). Dispatch inspects each weapon and issues 10 gel or 10 stun rounds + clips plus 1 signed-for real round (returned unless used). Extra kit on request — medkits, grenades, more Narcoject, armor. Each vehicle carries 10 flash + 10 smoke grenades and 50 spare Narcoject rounds for rifles/pistols.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "58257633b93099fd",
+      "name": "The Cast — Expert Team Three",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Seth Palatine</strong> — balding, devout, business-like leader; first responder scarred by the Night of Rage. <strong>Vivianne \"Viv\" Geldhausmann</strong> — red-haired team psychiatrist, relentlessly upbeat, widow of a murdered Lone Star informant. <strong>Gordon \"Hawkeye\" Kurtz</strong> — kimono-wearing wiseguy, secret physical adept and stimulant-fuelled embezzler. <strong>Shawn Ferrer</strong> — soft-spoken ponytailed dwarf rigger, forever yo-yoing, and the <em>default mole</em>. See the Cast compendium for full stat blocks; Legwork below for what contacts reveal about each.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "0536cd7ab9b19a44",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Little can go wrong: as long as the runners don't pick a fight, point fingers, or brag about DocWagon staff they've killed, Team Three accepts them at face value. If they threaten or draw on Liz, she humours them, defuses it, distances herself — and quietly stops trusting Bob's judgement, leaving the runners with no gear, no nuyen, no prospects.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "e10b80074b25d8c2",
+  "sort": 30,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!baa56ce40ded3a82"
+}

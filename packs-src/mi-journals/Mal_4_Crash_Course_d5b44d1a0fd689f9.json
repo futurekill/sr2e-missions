@@ -1,0 +1,168 @@
+{
+  "_id": "d5b44d1a0fd689f9",
+  "name": "Mal 4 — Crash Course",
+  "pages": [
+    {
+      "_id": "cfb38b99d984057c",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>\"Expert Team Three! Report to ambulance 844-01! Crisis on Thomas and Fairview — <em>immediately!</em>\" The klaxon startles you into motion; medics grab jackets and hats and charge for the garage. Shawn drives, Gordon rides shotgun as the Citymaster lurches out under siren. \"Here's the situation, terps,\" Seth briefs you: \"Client's a Miss Onizuka, 23, registered datajack and headware memory — caller reported severe head trauma, gunfire in the background.\" At the site — Thomas and Fairview, a T-intersection — small- and medium-caliber fire crackles; a chewed-up Leyland-Rover makes a barricade, two Patrol-Ones sit sideways across the street. \"C'mon terp, get a move on! The longer we wait, the sooner she'll die!\"</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "3bc15556d422b713",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> The runners' first real HTR run — and the first time they may feel they're betraying their own kind. A shadowrunning team (merc, rigger, two street sams, a decker) hit a Lone Star facility; the decker <strong>Onizuka</strong> was nearly killed by black IC and dump shock grabbing files that expose the local Star director's embezzling. Four corrupt officers — the only ones allowed to answer the call, no backup — have orders to shoot the runners \"while resisting arrest.\"</p>\n        <p><strong>Behind the Scenes.</strong> Lone Star officers: Threat/Pro 3/3, Partial Heavy Armor (6/4), HK227-S SMG + Ruger Thunderbolt; use Under the Influence's Foot Patrol Officer (book p.20) or SRII's Street Cop. Runners: SRII Mercenary/Rigger/Street Samurai + a Decker (VR2.0 p.79). Viv and Gordon fetch a stretcher; the officers hold fire the moment they see DocWagon colours approaching the runners.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "3dda002be2f9a845",
+      "name": "The Run — Two Resolutions",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Option One — \"I Fought the Law\":</strong> an officer approaches, claims the decker escaped custody and is within his jurisdiction, then escalates from veiled legal threats to racial slurs and graphic insults — trying to bait the runners into the <em>first</em> violent move, which voids DocWagon's jurisdiction and lets the Star fire legally. A DocWagon Etiquette (3) Test (1 success) reminds a PC that the Star won't fire on DocWagon unless fired upon, and that proper procedure doesn't match what this officer is proposing.</p>\n        <p><strong>Option Two — \"Cross-Eyed &amp; Painless\":</strong> the runners shadow the medics back to the Citymaster as mobile cover, ask to ride along with their fallen decker, and — if not flatly refused — try to <strong>carjack the Citymaster</strong>, taking a medic or the decker hostage to bluff the PCs into dropping weapons. They won't shoot hostages but will fire if threatened; they want the decker safe from DocWagon handing her to Lone Star.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "731ee87b9fca3153",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>If the runners shoot first at the Star, they've overstepped DocWagon jurisdiction and the cops may fire with impunity (focusing the Citymaster and any PC aiding the runners); officers retreat if the decker seems dead or three take a Serious wound. Either way the PCs get reamed for risking a lawsuit and may blow their cover. DocWagon PCs, trained for exactly this, have the advantage — attacking in defiance of that training penalises them and the whole TRP team.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "e10b80074b25d8c2",
+  "sort": 40,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!d5b44d1a0fd689f9"
+}

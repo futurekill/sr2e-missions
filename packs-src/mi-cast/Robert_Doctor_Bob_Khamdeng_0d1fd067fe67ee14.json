@@ -1,0 +1,144 @@
+{
+  "_id": "0d1fd067fe67ee14",
+  "name": "Robert \"Doctor Bob\" Khamdeng",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p><strong>The employer.</strong> Hired as a DocWagon paramedic in 2043, Robert Khamdeng built a reputation for heroism — and racked up fines for rescuing non-clients — until KNUS turned him into media darling \"Doctor Bob\" (a nationwide \"Korp Kudos\" segment, a Time-Ares cover) in 2047. In September 2054 the man <strong>Brown</strong> offered to buy DocWagon clients' DNA and medical histories; Bob refused, and three days later his rookie HTR team was rocket-ambushed and wiped out — Bob the sole survivor by luck. He let the world think him dead and slipped into the shadows as a freelance shadowrunner (rumoured to be a shaman). Now, poor but driven, he hires the team to unmask the mole still feeding Brown from inside DocWagon.</p>\n      <p><em>No published combat stat block (support NPC — attributes here are an estimate for a veteran shadowrunning ex-paramedic; treat as GM's discretion). Legwork: Missions p.46. Brief bio drawn from Missions p.26–33.</em></p>",
+    "race": "human",
+    "professionalRating": 3,
+    "body": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "strength": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "essence": {
+      "value": 5,
+      "max": 6
+    },
+    "magic": {
+      "value": 4,
+      "max": 4,
+      "tradition": "none",
+      "type": "full",
+      "totem": ""
+    },
+    "reaction": {
+      "base": 0,
+      "mod": 0,
+      "value": 4
+    },
+    "conditionMonitor": {
+      "physical": {
+        "value": 0,
+        "max": 10,
+        "overflow": 0
+      },
+      "stun": {
+        "value": 0,
+        "max": 10,
+        "overflow": 0
+      },
+      "overflow": 0
+    },
+    "armor": {
+      "ballistic": 0,
+      "impact": 0
+    },
+    "dicePools": {
+      "combat": {
+        "value": 0,
+        "max": 0,
+        "bonus": 0
+      },
+      "magic": {
+        "value": 0,
+        "max": 0,
+        "bonus": 0
+      }
+    },
+    "initiative": {
+      "base": 4,
+      "dice": 1,
+      "mod": 0,
+      "value": 4
+    },
+    "threatRating": 2,
+    "nuyen": 0,
+    "movement": {
+      "walk": 4,
+      "run": 12
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": "02f8a9137d0abcda",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "prototypeToken": {
+    "name": "Robert \"Doctor Bob\" Khamdeng",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff"
+    },
+    "disposition": 1
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!0d1fd067fe67ee14"
+}

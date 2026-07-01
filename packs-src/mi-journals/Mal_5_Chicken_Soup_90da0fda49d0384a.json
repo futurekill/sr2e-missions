@@ -1,0 +1,168 @@
+{
+  "_id": "90da0fda49d0384a",
+  "name": "Mal 5 — Chicken Soup",
+  "pages": [
+    {
+      "_id": "03077785fc05bff2",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>\"Hey terps,\" Gordon says over the intercom, \"delicate situation — I'll patch the client through.\" A woman's voice: \"My name is Gloria Tanaka. I'm assistant to Peter Barnsworth — he has a DocWagon bracelet. We work for Parashield, Incorporated; we train and sell security paranimals. Mr. Barnsworth sold some trained <strong>cockatrii</strong> to a Renraku subsidiary… paperwork mix-up. Half an hour ago they got out of their cages — there was screaming and squawking, and now everyone's lying paralyzed on the floor. The cockatrii paralyze you when they escape. I climbed onto a crate — think I twisted my ankle. There's fifty of them loose in here, plus me and Mr. Barnsworth and the workers. They were sedated for shipment, but it's wearing off, and if they wake and see all these people down, they'll start eating them. Don't hurt them — Parashield puts 200,000 nuyen into each. Get here fast.\" Gunshots echo from the far end of the warehouse.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "f7e114cc77f63f6f",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> Utterly absurd at first — wading through a sea of groggy paranormal chickens to save people — then a race against time before the \"Chickens of Doom\" fully revive. <strong>Behind the Scenes.</strong> Yakuza operatives sabotaged the cages' master environment computer as a distraction to hit a nearby Mafia weapons shipment; now a yakuza vs Knight-Errant gun battle rages through the docks. Seth judges it too dangerous for the medics inside — the TRPs must carry the clients out to them. Of eight paralyzed victims, only <strong>Peter Barnsworth</strong> and the warehouse manager are DocWagon clients; the other six are workers.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "cc1360025dbd3de4",
+      "name": "The Run — Crying Fowl",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>The drugged cockatrii are docile, not asleep: they keep all standard powers but attack at <strong>+2 TN</strong>, with Quickness and Reaction halved (round down); a hit still does <strong>8M</strong> (SRII p.222/233). Their real enemy is <strong>noise</strong>. Any sound louder than casual conversation startles nearby birds; a single <strong>gunshot fully wakes 3D6</strong> cockatrii, who then ignore the sedative — for every shot fired, another 3D6 revive. Best rescue: the roof-mounted <strong>gripper crane</strong> (access ladder at the SE corner → 8×6-ft control platform; Perception (5) to work the controls) — one PC rides the crane while another positions it to lift clients out. After the fifth rescue the cockatrii are fully awake and will shred anyone still on the floor. Gordon will make a daring crate-hop rescue (taking a Serious Stun wound) rather than lose the last victim.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "7867b88663fc2e4b",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>If the runners kill any cockatrii, Parashield sues DocWagon and the guilty PC is put on probation until the case resolves — a real drag on promotion. If they ignore Gloria's warning and start shooting, they trigger a stampede that endangers everyone on the floor and earns a brutal official chewing-out. Then proceed to <strong>Sleepless in Seattle</strong>.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "e10b80074b25d8c2",
+  "sort": 50,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!90da0fda49d0384a"
+}

@@ -1,0 +1,132 @@
+{
+  "_id": "9547b49a54621876",
+  "name": "Mal 2 — Train In Vain",
+  "pages": [
+    {
+      "_id": "23f2674c87618c7c",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>The Redmond DocWagon clinic — too white, too clean, smelling of the sick and the dead. The <strong>Citymaster</strong> (264-10) is parked exactly where Bob said. A dwarf woman leans against its door; the street's quiet, the contact clean. As you cross, she looks up: \"Any of you need a shot of <em>Morphine</em>?\" — \"Only to see the Sonics,\" you answer. \"Get in,\" she says. \"It's time to make you into spies.\"</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "bb86a174cb43c122",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> A crash course in the DocWagon way. <strong>Liz Yamato</strong>'s job is to turn the team into an adequate Temporary Response crew in <em>48 hours</em> (vs the usual three weeks). She takes it seriously — one wrong move and she loses DocWagon's security, the chance at the mole, and probably her job.</p>\n        <p><strong>Behind the Scenes.</strong> Liz lets them into the Citymaster and drives to an abandoned warehouse near the Federated Boeing shipyards for quick TRP training (run it out, use the optional encounters under <em>Sleepless In Seattle</em>, or hook them into a Virtual Training rig — GM's choice). If you skip the training, be sure the players learn the four rules below.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "a2396ab33649e012",
+      "name": "The DocWagon TRP Rules",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>1. Protect the paramedics.</strong> If the medics can't work, clients die and DocWagon loses money. You are expendable; they are not.</p>\n        <p><strong>2. Set up a perimeter</strong> around the doctors, using the Citymaster as the centre point.</p>\n        <p><strong>3. At least one TRP accompanies each paramedic</strong> to the patient/client.</p>\n        <p><strong>4. Rescuing non-clients is not a priority</strong> — but is allowed as long as it doesn't endanger the client or your teammates.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "e10b80074b25d8c2",
+  "sort": 20,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!9547b49a54621876"
+}
