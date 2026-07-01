@@ -1,0 +1,168 @@
+{
+  "_id": "32a0b819e121f014",
+  "name": "UtI 4 — Decking the Doctor",
+  "pages": [
+    {
+      "_id": "957536fe80f29584",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Optional Matrix angle. A decker can run into Cuca's system to find Tanner without kicking any physical doors — but the ice runs unusually heavy for a music store, and time in the machine is time the meat body isn't watching its back.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "6e13bd0ccb86f766",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> Like <em>Chez Cuca</em>, this offers a bloodless route to Tanner — and a chance to notice that the \"music store\" is guarded far too well.</p>\n        <p><strong>Behind the Scenes.</strong> The MindSound / \"Futuremen\" network: <strong>Host A</strong> (Green) runs MindSound's accounting plus the falsified chop-shop books; <strong>Host B</strong> (Green) covers the Café do Amazonia & Kennedy's Cheap Electronics fronts — whose books hold the tells (a no-frills café ordering four dozen Portuguese linguasofts; Kennedy's re-ordering cyber-radio implants it never sells); <strong>Host C</strong> (Red — the \"gold mine\") holds the Futuremen project and the Renraku control commands. Easiest lead: crack Tanner's telecom. Cracking the body-shop files (not the music files) trips a Bouncer.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "316d1ebadc39b68b",
+      "name": "Security Sheaves (GM reference)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>MindSound / Host A — Green (6/8/10/8/9/10):</strong> 6 Probe-5 · 11 Probe-5 · 16 Jammer-7 (Passive Alert) · 20 Bouncer (upgrade Security Code to Orange-8) · 24 Cascading Jam-Rip-6 · 27 Trap-Trace-8 (Blaster-6) · 30 Active Alert · 33 Expert Sparky-8 (Offense +2) · 36 Shutdown.</p>\n        <p><strong>Café / Kennedy's — Host B:</strong> 6 Probe-6 · 12 Trace-8 (Passive Alert) · 18 Jam-Rip-8 (Passive Alert) · 22 Tar Pit-10 · 25 Active Alert: Trace-10 · 29 Construct (Armor, Shifting) / Blaster-5 · Mark-Rip-5 · 34 Shutdown.</p>\n        <p><strong>Futuremen project / Host C — Red (10/13/9/15/16/16/13):</strong> 6 Cascading Mark-Rip-8 (Shield) · 8 Trap-Trace-10 (Sparky-8) · 8 Passive Alert: Construct (Armor) / Probe-6 / Trace-6 / Killer-6 · 11 Cascading Sparky-10 · 13 Active Alert: a Renraku decker arrives in 2D6 turns · 17 Expert Black IC-8 (Offense −2) · 21 Party IC (Acid/Bind/Jam/Mark-Rip-5) · 25 Cascading Black IC-10 · 29 Shutdown.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "0d2eccbf21357228",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Adjust the ice to your decker's weight — feed leads if they're stuck, hold back if they're cruising. No decker? If they ask Lone Star GridSec to run it, gauge how much help they need: drag your feet if they're doing fine, or turn up \"hints of something big at the body shop\" if they're lost.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "ab202c6f5cac598f",
+  "sort": 40,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!32a0b819e121f014"
+}

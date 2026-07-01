@@ -1,0 +1,144 @@
+{
+  "_id": "e19013d713fe6ff7",
+  "name": "Marcus Powell",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>The chief Renraku officer over the Futuremen project — an ambitious climber who keeps Cuca and the staff on a tight leash. He spends much of his time off-site chasing funding and glory, but drops in often to watch everyone. Not liked by the project personnel, and he doesn't care. He runs the endgame: the data-wipe and the demolition charges.</p>\n      <p><strong>Skills:</strong> Computer 4, Etiquette (Corporate) 5 [7], Firearms 3, Leadership 3 [5], Negotiation 4 [6]. <strong>Bioware:</strong> Tailored Pheromones (2). <strong>Cyberware:</strong> Datajack (4), 75 Mp headware memory.</p>\n      <p><strong>Gear:</strong> Morrissey Elite (heavy pistol, 5-round clip, SA, 9M) + concealed holster; Vashon Island \"Houndstooth\" armoured suit (3/3); telecom, 200 Mp.</p>\n      <p><em>Initiative 4 + 1D6. Threat/Professional 2/2 (Charisma 7 with pheromones). Missions p.25.</em></p>",
+    "race": "human",
+    "professionalRating": 2,
+    "body": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "strength": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 7,
+      "mod": 0,
+      "value": 7,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "essence": {
+      "value": 5.5,
+      "max": 6
+    },
+    "magic": {
+      "value": 0,
+      "max": 0,
+      "tradition": "none",
+      "type": "none",
+      "totem": ""
+    },
+    "reaction": {
+      "base": 0,
+      "mod": 0,
+      "value": 6
+    },
+    "conditionMonitor": {
+      "physical": {
+        "value": 0,
+        "max": 10,
+        "overflow": 0
+      },
+      "stun": {
+        "value": 0,
+        "max": 10,
+        "overflow": 0
+      },
+      "overflow": 0
+    },
+    "armor": {
+      "ballistic": 3,
+      "impact": 3
+    },
+    "dicePools": {
+      "combat": {
+        "value": 0,
+        "max": 0,
+        "bonus": 0
+      },
+      "magic": {
+        "value": 0,
+        "max": 0,
+        "bonus": 0
+      }
+    },
+    "initiative": {
+      "base": 6,
+      "dice": 1,
+      "mod": 0,
+      "value": 6
+    },
+    "threatRating": 2,
+    "nuyen": 0,
+    "movement": {
+      "walk": 3,
+      "run": 9
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": "180b6b8e09c46247",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "prototypeToken": {
+    "name": "Marcus Powell",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff"
+    },
+    "disposition": -1
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!e19013d713fe6ff7"
+}

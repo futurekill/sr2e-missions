@@ -1,0 +1,144 @@
+{
+  "_id": "be2dda11ac9dddd5",
+  "name": "Dr. Cuca (Dr. Claudio Andrade)",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>The Amazonian expatriate scientist behind \"Dr. Cuca.\" His research into simsense conditioning and cybernetic behaviour modification could have made him a leading name — if he'd been more careful about how he obtained test subjects. When one turned out to be the São Paulo mayor's cousin he fled Amazonia, and Renraku happily hired him. The Futuremen are his first field test. Brilliant but narrowly focused, occasionally manic — a clever opponent, not a raving mad scientist. He carries <strong>no cyberware</strong>, all too aware how easily implants can be turned against their owner.</p>\n      <p><strong>Skills:</strong> Biology 4 [Medicine 6], Biotech 4 [Transimplant Surgery 6], Computer 3, Cybertechnology 6, Etiquette (Corporate) 3, Interrogation 4, Psychology 7, Unarmed Combat 3.</p>\n      <p><strong>Gear:</strong> Wrist computer, 800 Mp. <em>Initiative 5 + 1D6. Threat/Professional 1/2. Missions p.25.</em></p>",
+    "race": "human",
+    "professionalRating": 2,
+    "body": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "strength": {
+      "base": 2,
+      "mod": 0,
+      "value": 2,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 6,
+      "mod": 0,
+      "value": 6,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "essence": {
+      "value": 6,
+      "max": 6
+    },
+    "magic": {
+      "value": 0,
+      "max": 0,
+      "tradition": "none",
+      "type": "none",
+      "totem": ""
+    },
+    "reaction": {
+      "base": 0,
+      "mod": 0,
+      "value": 5
+    },
+    "conditionMonitor": {
+      "physical": {
+        "value": 0,
+        "max": 10,
+        "overflow": 0
+      },
+      "stun": {
+        "value": 0,
+        "max": 10,
+        "overflow": 0
+      },
+      "overflow": 0
+    },
+    "armor": {
+      "ballistic": 0,
+      "impact": 0
+    },
+    "dicePools": {
+      "combat": {
+        "value": 0,
+        "max": 0,
+        "bonus": 0
+      },
+      "magic": {
+        "value": 0,
+        "max": 0,
+        "bonus": 0
+      }
+    },
+    "initiative": {
+      "base": 5,
+      "dice": 1,
+      "mod": 0,
+      "value": 5
+    },
+    "threatRating": 1,
+    "nuyen": 0,
+    "movement": {
+      "walk": 4,
+      "run": 12
+    }
+  },
+  "items": [],
+  "effects": [],
+  "folder": "180b6b8e09c46247",
+  "sort": 0,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "prototypeToken": {
+    "name": "Dr. Cuca (Dr. Claudio Andrade)",
+    "displayName": 0,
+    "actorLink": false,
+    "width": 1,
+    "height": 1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff"
+    },
+    "disposition": -1
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!actors!be2dda11ac9dddd5"
+}

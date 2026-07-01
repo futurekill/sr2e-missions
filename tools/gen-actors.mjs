@@ -59,6 +59,50 @@ const CAST = [
       <p><strong>Cyberware:</strong> Retractable Spur, Skillwires Plus (3), Softlink (3), Wired Reflexes (2). <strong>Bioware:</strong> Enhanced Articulation, Orthoskin (3), Trauma Damper.</p>
       <p><strong>Gear:</strong> Form-Fitting Body Armor-2 (3/1), Ares Viper Slivergun (heavy pistol, 9S flechette, SA/BF, 30-round clip); skillsofts — Music (3), Biotech (3), Amazonian Portuguese (3).</p>
       <p><em>Initiative 10 + 3D6. Threat/Professional 4/3. Missions p.12.</em></p>`
+  },
+  {
+    name: "Sgt. Franco Tanner", folder: "influence",
+    b: 4, q: 5, s: 4, c: 4, i: 5, w: 5, e: 3.03, r: 6, initDice: 2, armorB: 4, armorI: 3, threat: 4, pro: 3,
+    bio: `<p>An honest, hard-working, dedicated Lone Star undercover officer who broke up several major gangs before vanishing into this one. Missing since his last reports named "Dr. Cuca." When the players find him he is a puppet: his control cyberware drops him to <strong>Threat/Professional 2/4</strong> and turns him on his own side.</p>
+      <p><strong>Skills:</strong> Car 2, Etiquette (Street) 5, Firearms 4, Negotiation 3, Police Procedure 4, Psychology 2 [Group Behavior 4], Stealth 4, Unarmed Combat 3 [Subduing 5].</p>
+      <p><strong>Cyberware:</strong> Boosted Reflexes (2), Headware Radio (subdermal speakers, alpha), Skillwires Plus (3), Smartlink.</p>
+      <p><strong>Gear:</strong> Browning Ultra-Power (heavy pistol, 10-round clip, SA, 9M) with concealed holster + 2 spare clips; Securetech Ultra-Vest (4/3).</p>
+      <p><em>Initiative 6 + 2D6. Missions p.24.</em></p>`
+  },
+  {
+    name: "Dr. Cuca (Dr. Claudio Andrade)", folder: "influence",
+    b: 3, q: 4, s: 2, c: 3, i: 6, w: 5, e: 6, r: 5, initDice: 1, armorB: 0, armorI: 0, threat: 1, pro: 2,
+    bio: `<p>The Amazonian expatriate scientist behind "Dr. Cuca." His research into simsense conditioning and cybernetic behaviour modification could have made him a leading name — if he'd been more careful about how he obtained test subjects. When one turned out to be the São Paulo mayor's cousin he fled Amazonia, and Renraku happily hired him. The Futuremen are his first field test. Brilliant but narrowly focused, occasionally manic — a clever opponent, not a raving mad scientist. He carries <strong>no cyberware</strong>, all too aware how easily implants can be turned against their owner.</p>
+      <p><strong>Skills:</strong> Biology 4 [Medicine 6], Biotech 4 [Transimplant Surgery 6], Computer 3, Cybertechnology 6, Etiquette (Corporate) 3, Interrogation 4, Psychology 7, Unarmed Combat 3.</p>
+      <p><strong>Gear:</strong> Wrist computer, 800 Mp. <em>Initiative 5 + 1D6. Threat/Professional 1/2. Missions p.25.</em></p>`
+  },
+  {
+    name: "Marcus Powell", folder: "influence",
+    b: 3, q: 3, s: 3, c: 7, i: 5, w: 4, e: 5.5, r: 6, initDice: 1, armorB: 3, armorI: 3, threat: 2, pro: 2,
+    bio: `<p>The chief Renraku officer over the Futuremen project — an ambitious climber who keeps Cuca and the staff on a tight leash. He spends much of his time off-site chasing funding and glory, but drops in often to watch everyone. Not liked by the project personnel, and he doesn't care. He runs the endgame: the data-wipe and the demolition charges.</p>
+      <p><strong>Skills:</strong> Computer 4, Etiquette (Corporate) 5 [7], Firearms 3, Leadership 3 [5], Negotiation 4 [6]. <strong>Bioware:</strong> Tailored Pheromones (2). <strong>Cyberware:</strong> Datajack (4), 75 Mp headware memory.</p>
+      <p><strong>Gear:</strong> Morrissey Elite (heavy pistol, 5-round clip, SA, 9M) + concealed holster; Vashon Island "Houndstooth" armoured suit (3/3); telecom, 200 Mp.</p>
+      <p><em>Initiative 4 + 1D6. Threat/Professional 2/2 (Charisma 7 with pheromones). Missions p.25.</em></p>`
+  },
+  {
+    name: "Futureman (Human)", folder: "influence",
+    b: 5, q: 6, s: 5, c: 3, i: 3, w: 3, e: 1.88, r: 9, initDice: 2, armorB: 5, armorI: 3, threat: 2, pro: 4,
+    bio: `<p>A heavily-cybered Futuremen ganger (alpha-grade 'ware). Mix and match metatypes and loadouts across the gang. <strong>Skills:</strong> Firearms 5, Unarmed Combat 4.</p>
+      <p><strong>Cyberware (alpha):</strong> Cyberarm (+2 Strength, +2 Quickness), Cyber-shotgun, Retractable Spur, Cybereyes (Low-Light, Thermographic), Headware Radio (subdermal speakers), Reaction Enhancer (2), Smartlink, Wired Reflexes (1).</p>
+      <p><strong>Gear:</strong> Secure Jacket (5/3), Ares Predator (heavy pistol, 15-round clip, SA, 9M), cyber-shotgun (8-round magazine, SA, 10S). <em>Initiative 9 + 2D6. Threat/Professional 2/4. Missions p.18.</em></p>`
+  },
+  {
+    name: "Futureman (Ork)", folder: "influence",
+    b: 7, q: 6, s: 8, c: 1, i: 2, w: 2, e: 2.28, r: 9, initDice: 2, armorB: 5, armorI: 3, threat: 2, pro: 4, race: "ork",
+    bio: `<p>An ork Futuremen ganger — muscle with alpha-grade 'ware and bioware. <strong>Skills:</strong> Firearms 5, Unarmed Combat 5. (Body Index 2.0.)</p>
+      <p><strong>Cyberware (alpha):</strong> Headware Radio (subdermal speakers), Retractable Spur, Smartlink II, Wired Reflexes (2). <strong>Bioware:</strong> Enhanced Articulation, Muscle Augmentation (2), Trauma Damper.</p>
+      <p><strong>Gear:</strong> Armored Jacket (5/3), Ares Predator (heavy pistol, 15-round clip, SA, 9M), Uzi III (SMG, 24-round clip, BF, 6M). <em>Initiative 9 + 2D6. Threat/Professional 2/4. Missions p.18.</em></p>`
+  },
+  {
+    name: "Futureman (Dwarf)", folder: "influence",
+    b: 8, q: 6, s: 7, c: 2, i: 2, w: 3, e: 1.12, r: 8, initDice: 3, armorB: 7, armorI: 5, threat: 2, pro: 4, race: "dwarf",
+    bio: `<p>A dwarf Futuremen ganger — tough and hard to drop, with heavy cyber (Body Index 3). <strong>Skills:</strong> Firearms 5, Unarmed Combat 5.</p>
+      <p><strong>Gear/'ware:</strong> heavy armour (7/5) and alpha-grade combat cyberware in the Futuremen pattern (Wired Reflexes, Smartlink, cyber-weapon). <em>Initiative 8 + 3D6. Threat/Professional 2/4. Missions p.18.</em></p>`
   }
 ];
 

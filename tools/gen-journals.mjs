@@ -121,6 +121,70 @@ const JOURNALS = [
       page("Dropping Clues & Debugging", `
         <p>Lindy's screening is the gate. If the team can't talk their way in, the music-store cover, the surveillance gear, and the underground access all reward legwork and a quiet approach over a frontal one.</p>`)
     ]
+  },
+  {
+    name: "UtI 4 — Decking the Doctor", folder: "influence", sort: 40,
+    pages: [
+      page("Read to the Players", `
+        <p>Optional Matrix angle. A decker can run into Cuca's system to find Tanner without kicking any physical doors — but the ice runs unusually heavy for a music store, and time in the machine is time the meat body isn't watching its back.</p>`),
+      page("Hooks & Behind the Scenes", `
+        <p><strong>Hooks.</strong> Like <em>Chez Cuca</em>, this offers a bloodless route to Tanner — and a chance to notice that the "music store" is guarded far too well.</p>
+        <p><strong>Behind the Scenes.</strong> The MindSound / "Futuremen" network: <strong>Host A</strong> (Green) runs MindSound's accounting plus the falsified chop-shop books; <strong>Host B</strong> (Green) covers the Café do Amazonia & Kennedy's Cheap Electronics fronts — whose books hold the tells (a no-frills café ordering four dozen Portuguese linguasofts; Kennedy's re-ordering cyber-radio implants it never sells); <strong>Host C</strong> (Red — the "gold mine") holds the Futuremen project and the Renraku control commands. Easiest lead: crack Tanner's telecom. Cracking the body-shop files (not the music files) trips a Bouncer.</p>`),
+      page("Security Sheaves (GM reference)", `
+        <p><strong>MindSound / Host A — Green (6/8/10/8/9/10):</strong> 6 Probe-5 · 11 Probe-5 · 16 Jammer-7 (Passive Alert) · 20 Bouncer (upgrade Security Code to Orange-8) · 24 Cascading Jam-Rip-6 · 27 Trap-Trace-8 (Blaster-6) · 30 Active Alert · 33 Expert Sparky-8 (Offense +2) · 36 Shutdown.</p>
+        <p><strong>Café / Kennedy's — Host B:</strong> 6 Probe-6 · 12 Trace-8 (Passive Alert) · 18 Jam-Rip-8 (Passive Alert) · 22 Tar Pit-10 · 25 Active Alert: Trace-10 · 29 Construct (Armor, Shifting) / Blaster-5 · Mark-Rip-5 · 34 Shutdown.</p>
+        <p><strong>Futuremen project / Host C — Red (10/13/9/15/16/16/13):</strong> 6 Cascading Mark-Rip-8 (Shield) · 8 Trap-Trace-10 (Sparky-8) · 8 Passive Alert: Construct (Armor) / Probe-6 / Trace-6 / Killer-6 · 11 Cascading Sparky-10 · 13 Active Alert: a Renraku decker arrives in 2D6 turns · 17 Expert Black IC-8 (Offense −2) · 21 Party IC (Acid/Bind/Jam/Mark-Rip-5) · 25 Cascading Black IC-10 · 29 Shutdown.</p>`),
+      page("Dropping Clues & Debugging", `
+        <p>Adjust the ice to your decker's weight — feed leads if they're stuck, hold back if they're cruising. No decker? If they ask Lone Star GridSec to run it, gauge how much help they need: drag your feet if they're doing fine, or turn up "hints of something big at the body shop" if they're lost.</p>`)
+    ]
+  },
+  {
+    name: "UtI 5 — Whose Side Are You On?", folder: "influence", sort: 50,
+    pages: [
+      page("Read to the Players", `
+        <p>Tanner's quiet as you drive out to his contact's meet — still off, still not himself. You pull up to an abandoned warehouse near <strong>Green Lake</strong>, a garden spot so dead even the rats have left. Tanner leads you down a puddled alley, glancing around; there's no sign of his contact. Then footsteps — from the far end, then behind you, then everywhere. Either the contact has a badly split personality or you've walked into an ambush. Tanner realises it too — he's clawing for his Browning. Trouble is, he's pointing it at <em>you</em>.</p>`),
+      page("Hooks & Behind the Scenes", `
+        <p><strong>Hooks.</strong> This is the gut-punch: if the players hadn't twigged that Tanner is compromised, they do now — outnumbered, outgunned, an enemy in their own midst. The ambush can also be staged at the music shop, the clinic, or Tanner's apartment; adapt as your game demands.</p>
+        <p><strong>Behind the Scenes.</strong> In a panic, Cuca has sent ~ten <strong>Futuremen</strong> to erase the team (not realising that killing cops guarantees the investigation lives on). Tanner's control cyberware turns him against them. See the Ambush Site map.</p>`),
+      page("The Run & Opposition", `
+        <p>Use about <strong>1.5 Futuremen per PC (round up) plus Tanner</strong> for a fair, tough fight; two per PC for a hard one. Mix metatypes — a sample ten-man party: five humans, two orks, an elf, a dwarf, a troll. The <strong>Futureman</strong> variants (Human / Ork / Dwarf) are in the Cast compendium — heavily cybered with Wired Reflexes, smartlinks and cyber-shotguns. Tanner (Cast) fights at his reduced control rating (Threat 2/4). Try to leave Tanner and at least one Futuremen alive for questioning.</p>`),
+      page("Dropping Clues & Debugging", `
+        <p>The team is meant to survive and escape (or win) — scale the Futuremen count to your table. Capturing Tanner or a Futureman gives them the thread to the clinic and the raid. If it's going too easy, more chrome walks out of the shadows.</p>`)
+    ]
+  },
+  {
+    name: "UtI 6 — This May Sting a Little", folder: "influence", sort: 60,
+    pages: [
+      page("Read to the Players", `
+        <p>Enough is enough — time to make this Cuca flatliner pay. Private army in the streets is bad; bagging a fellow officer is the thing the Star does not tolerate. As you check your sidearm, you secretly hope the mad doctor's dumb enough to resist arrest.</p>`),
+      page("Hooks & Behind the Scenes", `
+        <p><strong>Hooks.</strong> The arrest can be a show-of-force surrender or a guns-blazing assault. The team has every reason to want Cuca dead — but they need him <em>alive</em> to reach the bigger fish (Renraku). That tension is good roleplaying amid the gunfire.</p>
+        <p><strong>Behind the Scenes.</strong> By now the team should peg the clinic as the Futuremen's source and bring backup — negotiate a Fast Response Team; Lone Star's Dept. of Paranormal Investigation may loan a combat mage and GridSec a decker (use the <em>Whose Side Are You On?</em> stat blocks if the team lacks either). The underground complex links every building on the block, giving Renraku routes to flee. Site-boss <strong>Marcus Powell</strong> (Cast) runs the endgame.</p>`),
+      page("The Run & Opposition", `
+        <p>Use the <em>Chez Cuca</em> map + NPCs (Lindy, Futuremen) plus <strong>Powell</strong> and <strong>Dr. Cuca / Andrade</strong> (Cast). Run it on a clock from the moment the team escapes/defeats the ambush (~10 minutes to the clinic, sirens up): Renraku trucks and staff flee the instant visible Lone Star arrives; if the team looks likely to overrun the place, Powell starts the <strong>data-wipe</strong> before all the top-secret data reaches Renraku; if too much evidence remains when the cops close in, he <strong>detonates the charges</strong> early. Radioing Lone Star for immediate deckers / an astral mage can disrupt his timeline.</p>`),
+      page("Dropping Clues & Debugging", `
+        <p>Give the team a fair shot at taking Cuca and company unless they truly dawdle. A team decker who jacks in "just in time" watches the last Futuremen data vanishing toward Renraku's mainframe (don't let them ID the destination) and can grab a little evidence before the wipe finishes. Let a personally-invested PC confront the doctor.</p>`)
+    ]
+  },
+  {
+    name: "UtI 7 — Picking Up the Pieces", folder: "influence", sort: 70,
+    pages: [
+      page("Resolution", `
+        <p>With Cuca (Andrade) taken or killed and the Futuremen broken, the team walks out with a compromised officer recovered and a chop shop shut down. If they kept the doctor alive and grabbed evidence before Powell's wipe, they have a thread pointing at <strong>Renraku</strong> — but proving a megacorp bankrolled illegal behavioural-cyberware experiments is another campaign's worth of trouble. Renraku scrubs its fingerprints; Lone Star is happy to close the gang case and unhappy to chase the corp.</p>`),
+      page("Aftermath & DE Tie-in", `
+        <p><strong>Tanner:</strong> if recovered alive, the control cyberware has to come out — a grim reminder that the implants that make a runner strong can be turned against them. <strong>Payment / commendation</strong> as befits Lone Star employees or contractors.</p>
+        <p><strong>Double Exposure hook:</strong> the memory of ordinary people quietly remade into someone else's puppets is exactly the note to leave hanging. When Project Hope's camps start "saving" the destitute and something behind the smiles is feeding on them, your players will feel the echo. (See the "Filling Double Exposure's Gaps" journal.)</p>`)
+    ]
+  },
+  {
+    name: "UtI — Legwork: The Futuremen", folder: "influence", sort: 80,
+    pages: [
+      page("Legwork (Any Gang / Street Contact, TN 4)", `
+        <p><strong>0 successes:</strong> "Future Man? Ain't he that drunkie player who disappeared back in '54?"</p>
+        <p><strong>1:</strong> "Yeah, I've heard of the Futuremen — hasn't everybody? They get splashed all over the six-o'clock news, but we'll see how tough they are if they come onto our turf."</p>
+        <p><strong>2–3:</strong> "Those flaggers must have serious backing — packing more chrome than some runners I know. I dunno what they're up to, but I'm not about to cross 'em."</p>
+        <p><strong>4+:</strong> "I know one of the guys in that gang — saw him on the trid when they hit that strip mall in Northgate. Asked him about it and he acted like he'd never heard of it. Swear it was him. Two days later he turns up dead. You ask me, something weird's goin' on with that gang."</p>`)
+    ]
   }
 ];
 

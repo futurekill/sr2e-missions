@@ -1,0 +1,168 @@
+{
+  "_id": "af7fd0c9cbf662a4",
+  "name": "UtI 6 — This May Sting a Little",
+  "pages": [
+    {
+      "_id": "3101cda3432cbd8c",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Enough is enough — time to make this Cuca flatliner pay. Private army in the streets is bad; bagging a fellow officer is the thing the Star does not tolerate. As you check your sidearm, you secretly hope the mad doctor's dumb enough to resist arrest.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "3bc15556d422b713",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> The arrest can be a show-of-force surrender or a guns-blazing assault. The team has every reason to want Cuca dead — but they need him <em>alive</em> to reach the bigger fish (Renraku). That tension is good roleplaying amid the gunfire.</p>\n        <p><strong>Behind the Scenes.</strong> By now the team should peg the clinic as the Futuremen's source and bring backup — negotiate a Fast Response Team; Lone Star's Dept. of Paranormal Investigation may loan a combat mage and GridSec a decker (use the <em>Whose Side Are You On?</em> stat blocks if the team lacks either). The underground complex links every building on the block, giving Renraku routes to flee. Site-boss <strong>Marcus Powell</strong> (Cast) runs the endgame.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "7ab2b42efd01ba94",
+      "name": "The Run & Opposition",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Use the <em>Chez Cuca</em> map + NPCs (Lindy, Futuremen) plus <strong>Powell</strong> and <strong>Dr. Cuca / Andrade</strong> (Cast). Run it on a clock from the moment the team escapes/defeats the ambush (~10 minutes to the clinic, sirens up): Renraku trucks and staff flee the instant visible Lone Star arrives; if the team looks likely to overrun the place, Powell starts the <strong>data-wipe</strong> before all the top-secret data reaches Renraku; if too much evidence remains when the cops close in, he <strong>detonates the charges</strong> early. Radioing Lone Star for immediate deckers / an astral mage can disrupt his timeline.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "8b17ef2952daee44",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Give the team a fair shot at taking Cuca and company unless they truly dawdle. A team decker who jacks in \"just in time\" watches the last Futuremen data vanishing toward Renraku's mainframe (don't let them ID the destination) and can grab a little evidence before the wipe finishes. Let a personally-invested PC confront the doctor.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "ab202c6f5cac598f",
+  "sort": 60,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!af7fd0c9cbf662a4"
+}

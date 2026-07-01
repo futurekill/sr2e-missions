@@ -1,0 +1,60 @@
+{
+  "_id": "6be982a6dd0ad014",
+  "name": "UtI — Legwork: The Futuremen",
+  "pages": [
+    {
+      "_id": "27ec4d11d895e12f",
+      "name": "Legwork (Any Gang / Street Contact, TN 4)",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>0 successes:</strong> \"Future Man? Ain't he that drunkie player who disappeared back in '54?\"</p>\n        <p><strong>1:</strong> \"Yeah, I've heard of the Futuremen — hasn't everybody? They get splashed all over the six-o'clock news, but we'll see how tough they are if they come onto our turf.\"</p>\n        <p><strong>2–3:</strong> \"Those flaggers must have serious backing — packing more chrome than some runners I know. I dunno what they're up to, but I'm not about to cross 'em.\"</p>\n        <p><strong>4+:</strong> \"I know one of the guys in that gang — saw him on the trid when they hit that strip mall in Northgate. Asked him about it and he acted like he'd never heard of it. Swear it was him. Two days later he turns up dead. You ask me, something weird's goin' on with that gang.\"</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "ab202c6f5cac598f",
+  "sort": 80,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!6be982a6dd0ad014"
+}

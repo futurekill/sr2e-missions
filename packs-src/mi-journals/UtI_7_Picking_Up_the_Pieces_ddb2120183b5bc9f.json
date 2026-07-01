@@ -1,0 +1,96 @@
+{
+  "_id": "ddb2120183b5bc9f",
+  "name": "UtI 7 — Picking Up the Pieces",
+  "pages": [
+    {
+      "_id": "7fea637c372a26e5",
+      "name": "Resolution",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>With Cuca (Andrade) taken or killed and the Futuremen broken, the team walks out with a compromised officer recovered and a chop shop shut down. If they kept the doctor alive and grabbed evidence before Powell's wipe, they have a thread pointing at <strong>Renraku</strong> — but proving a megacorp bankrolled illegal behavioural-cyberware experiments is another campaign's worth of trouble. Renraku scrubs its fingerprints; Lone Star is happy to close the gang case and unhappy to chase the corp.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "5f930dbad11faf3e",
+      "name": "Aftermath & DE Tie-in",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Tanner:</strong> if recovered alive, the control cyberware has to come out — a grim reminder that the implants that make a runner strong can be turned against them. <strong>Payment / commendation</strong> as befits Lone Star employees or contractors.</p>\n        <p><strong>Double Exposure hook:</strong> the memory of ordinary people quietly remade into someone else's puppets is exactly the note to leave hanging. When Project Hope's camps start \"saving\" the destitute and something behind the smiles is feeding on them, your players will feel the echo. (See the \"Filling Double Exposure's Gaps\" journal.)</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "ab202c6f5cac598f",
+  "sort": 70,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!ddb2120183b5bc9f"
+}

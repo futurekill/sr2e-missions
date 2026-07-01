@@ -1,0 +1,168 @@
+{
+  "_id": "54a99e778820b9de",
+  "name": "UtI 5 — Whose Side Are You On?",
+  "pages": [
+    {
+      "_id": "8ac4735bf9d91929",
+      "name": "Read to the Players",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Tanner's quiet as you drive out to his contact's meet — still off, still not himself. You pull up to an abandoned warehouse near <strong>Green Lake</strong>, a garden spot so dead even the rats have left. Tanner leads you down a puddled alley, glancing around; there's no sign of his contact. Then footsteps — from the far end, then behind you, then everywhere. Either the contact has a badly split personality or you've walked into an ambush. Tanner realises it too — he's clawing for his Browning. Trouble is, he's pointing it at <em>you</em>.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "5cf98862fa11eaee",
+      "name": "Hooks & Behind the Scenes",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p><strong>Hooks.</strong> This is the gut-punch: if the players hadn't twigged that Tanner is compromised, they do now — outnumbered, outgunned, an enemy in their own midst. The ambush can also be staged at the music shop, the clinic, or Tanner's apartment; adapt as your game demands.</p>\n        <p><strong>Behind the Scenes.</strong> In a panic, Cuca has sent ~ten <strong>Futuremen</strong> to erase the team (not realising that killing cops guarantees the investigation lives on). Tanner's control cyberware turns him against them. See the Ambush Site map.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "d139ec657771d363",
+      "name": "The Run & Opposition",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>Use about <strong>1.5 Futuremen per PC (round up) plus Tanner</strong> for a fair, tough fight; two per PC for a hard one. Mix metatypes — a sample ten-man party: five humans, two orks, an elf, a dwarf, a troll. The <strong>Futureman</strong> variants (Human / Ork / Dwarf) are in the Cast compendium — heavily cybered with Wired Reflexes, smartlinks and cyber-shotguns. Tanner (Cast) fights at his reduced control rating (Threat 2/4). Try to leave Tanner and at least one Futuremen alive for questioning.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    },
+    {
+      "_id": "e4d6fccce980b967",
+      "name": "Dropping Clues & Debugging",
+      "type": "text",
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "text": {
+        "format": 1,
+        "content": "\n        <p>The team is meant to survive and escape (or win) — scale the Futuremen count to your table. Capturing Tanner or a Futureman gives them the thread to the clinic and the raid. If it's going too easy, more chrome walks out of the shadows.</p>"
+      },
+      "system": {},
+      "sort": 0,
+      "ownership": {
+        "default": -1
+      },
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.1.0",
+        "createdTime": 1781600000000,
+        "modifiedTime": 1781600000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      }
+    }
+  ],
+  "folder": "ab202c6f5cac598f",
+  "sort": 50,
+  "flags": {},
+  "ownership": {
+    "default": 0
+  },
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.1.0",
+    "createdTime": 1781600000000,
+    "modifiedTime": 1781600000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!journal!54a99e778820b9de"
+}
