@@ -33,7 +33,8 @@ offset: book page N = PDF page N + 1.
   prose; do not paste long verbatim flavour text.
 - Cast: NPC stat blocks → `npc` actors in `mi-cast`, foldered by adventure.
 - Scenes: maps → `mi-scenes` (placeholder/empty scenes where the book's map is art).
-- Three packs (committed LevelDB, like DE): `mi-journals`, `mi-cast`, `mi-scenes`,
+- Three packs (`packs/` is a gitignored build artifact — rebuild after edits):
+  `mi-journals`, `mi-cast`, `mi-scenes`,
   each foldered by adventure. `npm run build-packs` / `validate` after edits.
 
 ## Copyright
