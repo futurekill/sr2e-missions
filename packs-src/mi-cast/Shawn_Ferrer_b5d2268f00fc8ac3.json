@@ -2,7 +2,7 @@
   "_id": "b5d2268f00fc8ac3",
   "name": "Shawn Ferrer",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/shawn-ferrer.webp",
   "system": {
     "biography": "<p><strong>The default mole.</strong> A dwarf rigger who grew up \"a respectable halfer\" in the CAS and served as a CAS-military transport pilot from 2048. In mid-2051 his hovercraft was capsized by Caribbean League pirates off Florida; he nearly drowned and came to believe his human squadmates let him die for being a dwarf — leaving him <strong>claustrophobic</strong> (except when rigging) and quietly bitter. He had plastic surgery to make his ears look \"human,\" joined DocWagon as a rigger + paramedic in 2053, and was assigned to Expert Team Three. Soft-spoken, rarely meets your eyes, forever practising yo-yo tricks. Sells DocWagon DNA and medical records to <strong>Brown</strong>. (GM may swap the mole; his fabricated bio still lists him as a dwarf — a legwork tell.)</p>\n      <p><strong>Skills:</strong> Armed Combat 1 [Edged Weapons 3, Knife 5], Biotech 1 [First Aid 3], Car 3, Electronics 1 [Diagnostics 3], Etiquette (DocWagon) 3, Firearms 2 [Pistols 4], Gunnery 4, Hovercraft 1 [Transport 3], Military History 2 [CAS 4], Rotorcraft 3, Stealth (Urban) 3, Stealth (Wilderness) 3, Unarmed Combat 1 [Escrima 3], Vectored Thrust 1 [VTOL 3], Yo-yo 3 [Trick Yo-yoing 5].</p>\n      <p><strong>Cyberware:</strong> Datajack, Commlink IV, Crypto Circuit HD (4), Orientation System, Telephone, Vehicle Control Rig (2). <strong>Bioware:</strong> Cerebral Booster (1) [Int 3→4], Orthoskin (1) [+1 Impact].</p>\n      <p><strong>Gear:</strong> Hammerli 610S [heavy pistol, 6 clip, SA, gel 4L Stun, 3 spare clips], AZ-150 Stun Baton [6S Stun], DocWagon Armor Jacket (5/3), DocWagon Kit, Flash-Pak, Micro Flare, Red Ryder Yo-yo.</p>\n      <p><em>Initiative 3 + 1D6 (7 + 3D6 when rigging). Threat/Professional 3/3. Body Index 0.9. Missions p.50.</em></p>",
     "race": "dwarf",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/shawn-ferrer.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": 0
   },
   "ownership": {

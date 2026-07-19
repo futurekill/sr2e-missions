@@ -2,7 +2,7 @@
   "_id": "3d041996661a2051",
   "name": "Earl Brown",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/earl-brown.webp",
   "system": {
     "biography": "<p><strong>The villain and recurring Enemy.</strong> Joined the UCAS Army in the early 2040s and volunteered as a test subject for an experimental <strong>cybernetic tactical computer</strong>, using laser designator and orientation system to guide bombs and missiles with pinpoint accuracy on black-ops jobs. A drunken brawl in which he permanently crippled a dwarf Air Force officer (a senator's son) got him dishonorably discharged and two years in federal prison. He resurfaced as a front man buying DNA samples — first hitting DocWagon clinics with brute force and headlines (the ambush that \"killed\" Doctor Bob's team), later turning subtle to survive his employers. Years of the tactical computer in his skull have made him as cold and calculating as its subroutines; he speaks only in ambiguities. Deadly with rifle, knife, and interrogation.</p>\n      <p><strong>Skills:</strong> Armed Combat 1 [Edged 3, Knife 5], Athletics 2 [Running 4], Car 3, Electronics 2 [Linking 4], Electronics (B/R) 3, Etiquette 3, Firearms 6 [Rifles 8, Barret 121 10], Gunnery 4 [Missile/Rocket Launcher 6], Interrogation 6 [Torture 8], Leadership 2 [Tactics 4], Military Theory 2 [Tactics 4], Negotiation 1 [Bargain 3], Psychology 1, Stealth 5, Throwing Weapons 2 [Non-Aero 4, Grenades 6], Unarmed Combat 5.</p>\n      <p><strong>Cyberware:</strong> Boosted Reflexes (1), Cybereyes (Display Link, Thermographic, Rangefinder), Datajack, Orientation System, Smartlink II, Tactical Computer (1). <strong>Bioware:</strong> Damage Compensators (6), Enhanced Articulation, Muscle Augmentation (1), Tailored Pheromones (2), Trauma Damper. (Augmented: Q7 S3 C6 R6.)</p>\n      <p><strong>Gear:</strong> Barret Model 121 [sniper, 14 clip, SA, APDS 14D, spare clip] in a Fuchi-7 case; Colt Cobra [SMG, 32 clip, SA/BF/FA, APDS 6M, 3 spare clips]; Cougar Fine Blade Knife [3M]; Camouflage Jacket (5/3, urban); Smartgoggles; 2 AFR-7 flash grenades.</p>\n      <p><em>Initiative 5 (6) + 1D6 (2D6). Threat/Professional 5/4. Body Index 3.6. Missions p.51.</em></p>",
     "race": "human",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/earl-brown.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": -1
   },
   "ownership": {

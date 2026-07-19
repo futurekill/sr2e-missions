@@ -2,7 +2,7 @@
   "_id": "07ad47073826baca",
   "name": "Futureman (Human)",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/futureman-human.webp",
   "system": {
     "biography": "<p>A heavily-cybered Futuremen ganger (alpha-grade 'ware). Mix and match metatypes and loadouts across the gang. <strong>Skills:</strong> Firearms 5, Unarmed Combat 4.</p>\n      <p><strong>Cyberware (alpha):</strong> Cyberarm (+2 Strength, +2 Quickness), Cyber-shotgun, Retractable Spur, Cybereyes (Low-Light, Thermographic), Headware Radio (subdermal speakers), Reaction Enhancer (2), Smartlink, Wired Reflexes (1).</p>\n      <p><strong>Gear:</strong> Secure Jacket (5/3), Ares Predator (heavy pistol, 15-round clip, SA, 9M), cyber-shotgun (8-round magazine, SA, 10S). <em>Initiative 9 + 2D6. Threat/Professional 2/4. Missions p.18.</em></p>",
     "race": "human",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/futureman-human.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": -1
   },
   "ownership": {

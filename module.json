@@ -2,7 +2,7 @@
   "id": "sr2e-missions",
   "title": "Shadowrun 2E: Missions",
   "description": "Adventures from Missions (FASA 7325) for the Shadowrun 2nd Edition system — GM journals, NPC stat blocks, and maps. Built to drop into the downtime gaps of the Double Exposure campaign (Seattle, 2055).",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"

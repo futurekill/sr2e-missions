@@ -2,7 +2,7 @@
   "_id": "0a0670afd555795e",
   "name": "Seth Palatine",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/seth-palatine.webp",
   "system": {
     "biography": "<p>Balding, business-like leader of DocWagon Expert Team Three, a devout Muslim who reads the Koran and masks his feelings. Born mid-2010s; lost his father and two sisters to VITAS-II, raised poor by his mother on government aid. A paramedic since Seattle's Nordstrom Clinic (bought by DocWagon in 2043), he was among the first responders when a <strong>Sons of Sauron</strong> bomb tore through the Ork Underground in 2049 (38 dead) — Metroplex Guardsmen kept him from the dying, and his ailing mother was among the wounded and soon died. He has never forgiven the Sons. Twenty years on the front line show in his worry-lined face. <em>Not the mole.</em></p>\n      <p><strong>Skills:</strong> Armed Combat 1 [Clubs 3, AZ-150 Stun Baton 5], Athletics 3, Biology 2 [Medicine 4], Biotech 6, Car 3, Cybertechnology 3, Etiquette (Corporate) 3, Etiquette (DocWagon) 5, Etiquette (Street) 3, Firearms 2 [Light Pistols 4, Beretta 110-T 6], Gunnery 1 [Vehicle Cannons 3], Leadership 2 [Commercial 4], Negotiation 1 [Fast Talk 3], Unarmed Combat 2 [Subduing Combat 4], Urban Stealth 3.</p>\n      <p><strong>Bioware:</strong> Orthoskin (2) [+1 Ballistic/+1 Impact — total 6/4 with jacket]. <strong>Gear:</strong> AZ-150 Stun Baton [6S Stun], Beretta 110-T [light pistol, 12 clip, SA, gel 4L Stun, 3 spare clips], DocWagon Armor Jacket (5/3), DocWagon Kit, Flash-Pak, Micro Flare, Chrysler-Nissan Jackrabbit.</p>\n      <p><em>Initiative 4 + 1D6. Threat/Professional 2/3. Body Index 1. Missions p.48.</em></p>",
     "race": "human",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/seth-palatine.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": 0
   },
   "ownership": {

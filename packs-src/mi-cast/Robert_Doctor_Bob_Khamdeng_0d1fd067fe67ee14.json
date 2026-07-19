@@ -2,7 +2,7 @@
   "_id": "0d1fd067fe67ee14",
   "name": "Robert \"Doctor Bob\" Khamdeng",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/robert-doctor-bob-khamdeng.webp",
   "system": {
     "biography": "<p><strong>The employer.</strong> Hired as a DocWagon paramedic in 2043, Robert Khamdeng built a reputation for heroism — and racked up fines for rescuing non-clients — until KNUS turned him into media darling \"Doctor Bob\" (a nationwide \"Korp Kudos\" segment, a Time-Ares cover) in 2047. In September 2054 the man <strong>Brown</strong> offered to buy DocWagon clients' DNA and medical histories; Bob refused, and three days later his rookie HTR team was rocket-ambushed and wiped out — Bob the sole survivor by luck. He let the world think him dead and slipped into the shadows as a freelance shadowrunner (rumoured to be a shaman). Now, poor but driven, he hires the team to unmask the mole still feeding Brown from inside DocWagon.</p>\n      <p><em>No published combat stat block (support NPC — attributes here are an estimate for a veteran shadowrunning ex-paramedic; treat as GM's discretion). Legwork: Missions p.46. Brief bio drawn from Missions p.26–33.</em></p>",
     "race": "human",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/robert-doctor-bob-khamdeng.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": 1
   },
   "ownership": {

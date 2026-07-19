@@ -2,7 +2,7 @@
   "_id": "e19013d713fe6ff7",
   "name": "Marcus Powell",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/marcus-powell.webp",
   "system": {
     "biography": "<p>The chief Renraku officer over the Futuremen project — an ambitious climber who keeps Cuca and the staff on a tight leash. He spends much of his time off-site chasing funding and glory, but drops in often to watch everyone. Not liked by the project personnel, and he doesn't care. He runs the endgame: the data-wipe and the demolition charges.</p>\n      <p><strong>Skills:</strong> Computer 4, Etiquette (Corporate) 5 [7], Firearms 3, Leadership 3 [5], Negotiation 4 [6]. <strong>Bioware:</strong> Tailored Pheromones (2). <strong>Cyberware:</strong> Datajack (4), 75 Mp headware memory.</p>\n      <p><strong>Gear:</strong> Morrissey Elite (heavy pistol, 5-round clip, SA, 9M) + concealed holster; Vashon Island \"Houndstooth\" armoured suit (3/3); telecom, 200 Mp.</p>\n      <p><em>Initiative 4 + 1D6. Threat/Professional 2/2 (Charisma 7 with pheromones). Missions p.25.</em></p>",
     "race": "human",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/marcus-powell.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": -1
   },
   "ownership": {

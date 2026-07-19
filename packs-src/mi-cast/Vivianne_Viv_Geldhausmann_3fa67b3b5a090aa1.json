@@ -2,7 +2,7 @@
   "_id": "3fa67b3b5a090aa1",
   "name": "Vivianne \"Viv\" Geldhausmann",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/vivianne-viv-geldhausmann.webp",
   "system": {
     "biography": "<p>Team Three's psychiatrist — short red hair, warm smile, a slight limp from a gunshot to the leg taken pulling a client out of a gang war. Graduated eighth in her class at Cambridge; specialises in cyberpsychosis but fills in ably as a medic. Her cheer keeps the team sane amid daily horrors, though it dimmed after 2051, when her husband <strong>Jacob</strong> — a photojournalist and Lone Star \"cybersnoop\" — was murdered during the Ancients gang war for the crime footage that cleared the Ancients of starting it. His murder was never solved; she still wears his ring on a necklace. <em>Not the mole.</em></p>\n      <p><strong>Skills:</strong> Armed Combat 1 [Clubs 3, AZ-150 Stun Baton 5], Athletics 3, Biology 1 [Medicine 3], Biotech 4, Car 2, Cybertechnology 2, Etiquette (Corporate) 2, Etiquette (DocWagon) 5, Etiquette (Street) 3, Firearms 1 [Light Pistol 3, Ares Crusader MP 5], Negotiation 5, Psychology 5, Unarmed Combat 1 [Subduing Combat 3], Urban Stealth 2.</p>\n      <p><strong>Gear:</strong> Ares Crusader MP [light pistol, 40 clip, SA/BF, gel 4L Stun, 2 spare clips], AZ-150 Stun Baton [6S Stun], DocWagon Armor Jacket (5/3), DocWagon Kit, Flash-Pak, Micro Flare, necklace looped through a man's ring.</p>\n      <p><em>Initiative 3 + 1D6. Threat/Professional 2/2. Missions p.49.</em></p>",
     "race": "human",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/vivianne-viv-geldhausmann.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": 0
   },
   "ownership": {

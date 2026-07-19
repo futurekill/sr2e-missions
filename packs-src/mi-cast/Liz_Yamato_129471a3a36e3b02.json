@@ -2,7 +2,7 @@
   "_id": "129471a3a36e3b02",
   "name": "Liz Yamato",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/liz-yamato.webp",
   "system": {
     "biography": "<p><strong>The handler.</strong> A dwarf agent of DocWagon's <strong>Internal Security Division</strong> and Doctor Bob's old friend, who traced the leak to Expert Team Three. She recruits the team as Temporary Response Personnel, runs their 48-hour crash-course, checks in each afternoon for evidence, and arrives with ISD muscle to take the exposed mole away. She takes the job dead seriously — one wrong move blows DocWagon's security, the mole, and her career. Introduces herself at the Renton Clinic Citymaster with the counter-sign: \"Any of you need a shot of <em>Morphine</em>?\"</p>\n      <p><em>No published stat block (support NPC — attributes here are an estimate for a capable ISD field agent; GM's discretion). Appears throughout Malpractice (Missions p.33–45).</em></p>",
     "race": "dwarf",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/liz-yamato.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": 1
   },
   "ownership": {

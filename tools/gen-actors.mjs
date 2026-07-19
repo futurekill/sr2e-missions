@@ -7,6 +7,8 @@ import crypto from "node:crypto";
 const DIR = "packs-src/mi-cast";
 mkdirSync(DIR, { recursive: true });
 const sha = (s) => crypto.createHash("sha1").update(s).digest("hex").slice(0, 16);
+const slugName = (s) => s.toLowerCase().replace(/['’()]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+const portrait = (name) => `modules/sr2e-missions/assets/portraits/${slugName(name)}.webp`;
 const STATS = { coreVersion: "13.351", systemId: "sr2e", systemVersion: "0.1.0",
   createdTime: 1781600000000, modifiedTime: 1781600000000, lastModifiedBy: null,
   compendiumSource: null, duplicateSource: null, exportSource: null };
@@ -27,7 +29,7 @@ for (const [k, f] of Object.entries(FOLDERS)) {
 function npc(x) {
   const id = sha("mi-npc:" + x.name);
   return {
-    _id: id, name: x.name, type: "npc", img: "icons/svg/mystery-man.svg",
+    _id: id, name: x.name, type: "npc", img: portrait(x.name),
     system: {
       biography: x.bio, race: x.race || "human", professionalRating: x.pro ?? 2,
       body: attr(x.b), quickness: attr(x.q), strength: attr(x.s),
@@ -44,8 +46,8 @@ function npc(x) {
     items: [], effects: [], folder: x.folder ? folderId(x.folder) : null, sort: 0,
     flags: {}, _stats: STATS,
     prototypeToken: { name: x.name, displayName: 0, actorLink: false, width: 1, height: 1,
-      texture: { src: "icons/svg/mystery-man.svg", anchorX: 0.5, anchorY: 0.5, offsetX: 0, offsetY: 0, fit: "contain", scaleX: 1, scaleY: 1, rotation: 0, tint: "#ffffff" },
-      disposition: x.disp ?? -1 },
+      texture: { src: portrait(x.name), anchorX: 0.5, anchorY: 0.5, offsetX: 0, offsetY: 0, fit: "cover", scaleX: 1, scaleY: 1, rotation: 0, tint: "#ffffff" },
+      lockRotation: true, disposition: x.disp ?? -1 },
     ownership: { default: 0 }, _key: `!actors!${id}`
   };
 }

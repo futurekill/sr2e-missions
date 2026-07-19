@@ -2,7 +2,7 @@
   "_id": "a904d65e67d3cac4",
   "name": "Futureman (Dwarf)",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/futureman-dwarf.webp",
   "system": {
     "biography": "<p>A dwarf Futuremen ganger — tough and hard to drop, with heavy cyber (Body Index 3). <strong>Skills:</strong> Firearms 5, Unarmed Combat 5.</p>\n      <p><strong>Gear/'ware:</strong> heavy armour (7/5) and alpha-grade combat cyberware in the Futuremen pattern (Wired Reflexes, Smartlink, cyber-weapon). <em>Initiative 8 + 3D6. Threat/Professional 2/4. Missions p.18.</em></p>",
     "race": "dwarf",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/futureman-dwarf.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": -1
   },
   "ownership": {

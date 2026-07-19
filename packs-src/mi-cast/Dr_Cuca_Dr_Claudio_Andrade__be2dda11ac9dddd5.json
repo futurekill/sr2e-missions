@@ -2,7 +2,7 @@
   "_id": "be2dda11ac9dddd5",
   "name": "Dr. Cuca (Dr. Claudio Andrade)",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/dr-cuca-dr-claudio-andrade.webp",
   "system": {
     "biography": "<p>The Amazonian expatriate scientist behind \"Dr. Cuca.\" His research into simsense conditioning and cybernetic behaviour modification could have made him a leading name — if he'd been more careful about how he obtained test subjects. When one turned out to be the São Paulo mayor's cousin he fled Amazonia, and Renraku happily hired him. The Futuremen are his first field test. Brilliant but narrowly focused, occasionally manic — a clever opponent, not a raving mad scientist. He carries <strong>no cyberware</strong>, all too aware how easily implants can be turned against their owner.</p>\n      <p><strong>Skills:</strong> Biology 4 [Medicine 6], Biotech 4 [Transimplant Surgery 6], Computer 3, Cybertechnology 6, Etiquette (Corporate) 3, Interrogation 4, Psychology 7, Unarmed Combat 3.</p>\n      <p><strong>Gear:</strong> Wrist computer, 800 Mp. <em>Initiative 5 + 1D6. Threat/Professional 1/2. Missions p.25.</em></p>",
     "race": "human",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/dr-cuca-dr-claudio-andrade.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": -1
   },
   "ownership": {

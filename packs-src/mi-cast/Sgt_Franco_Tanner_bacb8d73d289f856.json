@@ -2,7 +2,7 @@
   "_id": "bacb8d73d289f856",
   "name": "Sgt. Franco Tanner",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/sgt-franco-tanner.webp",
   "system": {
     "biography": "<p>An honest, hard-working, dedicated Lone Star undercover officer who broke up several major gangs before vanishing into this one. Missing since his last reports named \"Dr. Cuca.\" When the players find him he is a puppet: his control cyberware drops him to <strong>Threat/Professional 2/4</strong> and turns him on his own side.</p>\n      <p><strong>Skills:</strong> Car 2, Etiquette (Street) 5, Firearms 4, Negotiation 3, Police Procedure 4, Psychology 2 [Group Behavior 4], Stealth 4, Unarmed Combat 3 [Subduing 5].</p>\n      <p><strong>Cyberware:</strong> Boosted Reflexes (2), Headware Radio (subdermal speakers, alpha), Skillwires Plus (3), Smartlink.</p>\n      <p><strong>Gear:</strong> Browning Ultra-Power (heavy pistol, 10-round clip, SA, 9M) with concealed holster + 2 spare clips; Securetech Ultra-Vest (4/3).</p>\n      <p><em>Initiative 6 + 2D6. Missions p.24.</em></p>",
     "race": "human",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/sgt-franco-tanner.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": -1
   },
   "ownership": {

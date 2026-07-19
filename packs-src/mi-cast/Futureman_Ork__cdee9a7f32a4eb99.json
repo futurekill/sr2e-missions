@@ -2,7 +2,7 @@
   "_id": "cdee9a7f32a4eb99",
   "name": "Futureman (Ork)",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-missions/assets/portraits/futureman-ork.webp",
   "system": {
     "biography": "<p>An ork Futuremen ganger — muscle with alpha-grade 'ware and bioware. <strong>Skills:</strong> Firearms 5, Unarmed Combat 5. (Body Index 2.0.)</p>\n      <p><strong>Cyberware (alpha):</strong> Headware Radio (subdermal speakers), Retractable Spur, Smartlink II, Wired Reflexes (2). <strong>Bioware:</strong> Enhanced Articulation, Muscle Augmentation (2), Trauma Damper.</p>\n      <p><strong>Gear:</strong> Armored Jacket (5/3), Ares Predator (heavy pistol, 15-round clip, SA, 9M), Uzi III (SMG, 24-round clip, BF, 6M). <em>Initiative 9 + 2D6. Threat/Professional 2/4. Missions p.18.</em></p>",
     "race": "ork",
@@ -124,17 +124,18 @@
     "width": 1,
     "height": 1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg",
+      "src": "modules/sr2e-missions/assets/portraits/futureman-ork.webp",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
       "offsetY": 0,
-      "fit": "contain",
+      "fit": "cover",
       "scaleX": 1,
       "scaleY": 1,
       "rotation": 0,
       "tint": "#ffffff"
     },
+    "lockRotation": true,
     "disposition": -1
   },
   "ownership": {

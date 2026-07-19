@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.0 — Cast portraits
+
+All 14 Missions NPCs now have custom painterly portraits (square 1024px,
+rotation-locked) instead of the mystery-man placeholder.
+
 ## 0.2.0 — Scenes
 
 The `mi-scenes` pack is no longer empty: **15 placeholder battlemaps**, one per
