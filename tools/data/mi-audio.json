@@ -7,39 +7,39 @@
     },
     "cuca": {
       "name": "MI – Dr. Cuca (Andrade)",
-      "id": null
+      "id": "fb4EW4mq06UDw6B72E8B"
     },
     "lindy": {
       "name": "MI – Lindy",
-      "id": null
+      "id": "m5yhLhu4fQinKOAHFdTs"
     },
     "doctorbob": {
       "name": "MI – Doctor Bob",
-      "id": null
+      "id": "QEncp7nFeXpjxembDNXY"
     },
     "yamato": {
       "name": "MI – Liz Yamato",
-      "id": null
+      "id": "Wzbxsbut8GpWqKPbD32B"
     },
     "palatine": {
       "name": "MI – Seth Palatine",
-      "id": null
+      "id": "4b6DJd1MPPX4Tc1T4m7A"
     },
     "viv": {
       "name": "MI – Viv Geldhausmann",
-      "id": null
+      "id": "oEBIodqItpehtjxtAvmB"
     },
     "hawkeye": {
       "name": "MI – Gordon \"Hawkeye\" Kurtz",
-      "id": null
+      "id": "0sCEp5JnPM9c02TEYmCs"
     },
     "ferrer": {
       "name": "MI – Shawn Ferrer",
-      "id": null
+      "id": "GcF7RWX3317ZooJPojqS"
     },
     "brown": {
       "name": "MI – Earl Brown",
-      "id": null
+      "id": "6Ja4Sn0IcxFbZeSki5d8"
     },
     "burns": {
       "name": "Bill (stock)",
@@ -86,7 +86,7 @@
           "id": "uti1-burns-job",
           "label": "Burns: one of ours went dark",
           "voice": "burns",
-          "text": "One of our undercover people has gone dark. Franco Tanner. [pause] He was inside a gang called the Futuremen, and his last report named somebody called... Doctor Cuca."
+          "text": "[grim, low] One of our undercover people has gone dark. [beat] Franco Tanner. [pause] He was inside a gang called the Futuremen... [sighs] and his last report named somebody called... Doctor Cuca."
         },
         {
           "id": "uti1-burns-quiet",
@@ -319,7 +319,7 @@
           "id": "mal2-yamato-48",
           "label": "Yamato: forty-eight hours",
           "voice": "yamato",
-          "text": "You've got forty-eight hours to learn what took our medics two years. [flatly] Don't embarrass me, and don't blow my cover."
+          "text": "[brisk] You've got forty-eight hours to learn what took our medics two years. [beat] [flatly] Don't embarrass me... [pointed] and don't blow my cover."
         },
         {
           "id": "mal3-yamato-proof",
@@ -366,7 +366,7 @@
           "id": "mal4-dispatch-crisis",
           "label": "Dispatch: crisis call",
           "voice": "dispatch",
-          "text": "[over a PA, urgent] Expert Team Three, report to ambulance eight-four-four-oh-one! Crisis at Thomas and Fairview — immediately!"
+          "text": "[over a PA, urgent] Expert Team Three, report to ambulance eight-four-four-oh-one! [beat] Crisis at Thomas and Fairview — [emphatic] immediately!"
         },
         {
           "id": "mal4-sfx-siren",

@@ -10,7 +10,198 @@
   "sorting": "m",
   "seed": null,
   "sort": 100000,
-  "sounds": [],
+  "sounds": [
+    {
+      "_id": "351b0dfec9b2c567",
+      "name": "SFX: MindSound Music (loop)",
+      "path": "modules/sr2e-missions/assets/audio/uti3-sfx-store.mp3",
+      "description": "",
+      "repeat": true,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "9b8062b5de17801e",
+      "name": "Read-aloud: MindSound Music",
+      "path": "modules/sr2e-missions/assets/audio/uti3-read-store.mp3",
+      "description": "[low] MindSound Music is legit enough on the surface. [pause] A cheap electronics shop, an Amazonian café... and somewhere under all of it, a body shop, screened behind layers of misdirection and one very friendly clerk.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "c3ecd7ecab90166c",
+      "name": "Lindy: can I help you?",
+      "path": "modules/sr2e-missions/assets/audio/uti3-lindy-help.mp3",
+      "description": "[easygoing] Hey, welcome in! Looking for anything special today? [beat] Or... something not on the shelves?",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "521204c696274bc8",
+      "name": "Lindy: who sent you?",
+      "path": "modules/sr2e-missions/assets/audio/uti3-lindy-who.mp3",
+      "description": "[friendly, but watching] Sure, I might know a guy. [pause] Who sent you down here, though? I like to know who I'm talking to.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "3eca90b90051066e",
+      "name": "Lindy: the doctor will see you",
+      "path": "modules/sr2e-missions/assets/audio/uti3-lindy-downstairs.mp3",
+      "description": "[pleased] All right, you check out. [lowering voice] Follow me downstairs. The doctor'll take good care of you.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 500000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "f9b9b07f2a410c54",
+      "name": "Lindy: just a minute",
+      "path": "modules/sr2e-missions/assets/audio/uti3-lindy-stall.mp3",
+      "description": "[too casual] Oh, the doctor? Yeah, yeah, he's just finishing up with someone. [beat] Grab a seat. Shouldn't be more than a minute.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 600000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "661b2d7fc67f0e5d",
+      "name": "Lindy: never heard of him",
+      "path": "modules/sr2e-missions/assets/audio/uti3-lindy-deny.mp3",
+      "description": "[blank smile] Cuca? Tanner? [shrugs] Never heard of either one, officer. Can I interest you in a synth?",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 700000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "c1d895a609abcc9d",
+      "name": "Cuca: welcome, my friends",
+      "path": "modules/sr2e-missions/assets/audio/uti3-cuca-welcome.mp3",
+      "description": "[delighted] Ah! Come in, come in! [laughs] Sit, please, sit. You want speed? Strength? I have things here the corporations won't sell you for another ten years!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 800000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "5099dc7a81556e3a",
+      "name": "Cuca: you don't need it, you want it",
+      "path": "modules/sr2e-missions/assets/audio/uti3-cuca-sell.mp3",
+      "description": "[eagerly] You don't need it, my friend — you want it. That's different! [leaning in] And for you? A very special price.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 900000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "10f770f745ecfcc0",
+      "name": "Cuca: trust me",
+      "path": "modules/sr2e-missions/assets/audio/uti3-cuca-trust.mp3",
+      "description": "[warm, a little manic] Relax. Breathe. [softly] Trust me — you'll never feel better in your life.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1000000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    }
+  ],
   "ownership": {
     "default": 0
   },

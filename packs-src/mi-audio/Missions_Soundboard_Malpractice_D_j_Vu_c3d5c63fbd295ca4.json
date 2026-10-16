@@ -10,7 +10,179 @@
   "sorting": "m",
   "seed": null,
   "sort": 500000,
-  "sounds": [],
+  "sounds": [
+    {
+      "_id": "e5c61318990d6547",
+      "name": "Read-aloud: the construction site",
+      "path": "modules/sr2e-missions/assets/audio/mal7-read-site.mp3",
+      "description": "[uneasy] An easy one, the call said. Just a hurt kid. [pause] The gates stand wide open; skeleton buildings pierce the night. A small crumpled form lies at the base of the nearest frame... [beat] and then a light blazes from the second floor.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "39df83d461978071",
+      "name": "SFX: guided explosions",
+      "path": "modules/sr2e-missions/assets/audio/mal7-sfx-blast.mp3",
+      "description": "",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "5a81c357c39d8662",
+      "name": "Brown: target acquired",
+      "path": "modules/sr2e-missions/assets/audio/mal7-brown-target.mp3",
+      "description": "[cold, flat] Target acquired. [pause] Range: three hundred meters. [beat] Correcting.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "4d31add3f2747e71",
+      "name": "Brown: everyone has a price",
+      "path": "modules/sr2e-missions/assets/audio/mal7-brown-price.mp3",
+      "description": "[calm, menacing] Everyone has a price. [pause] The doctor's was going to be very generous. [beat] Yours is going to be very short.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "caca2994537e3945",
+      "name": "Brown: you again",
+      "path": "modules/sr2e-missions/assets/audio/mal7-brown-again.mp3",
+      "description": "[almost amused] You again. [flatly] My files said you were dead, Doctor. [pause] I'll correct them.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 500000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "b6d99a1aae5280ae",
+      "name": "Shawn: you don't know",
+      "path": "modules/sr2e-missions/assets/audio/mal7-shawn-caught.mp3",
+      "description": "[quiet, bitter] You don't know what it's like. [voice rising] They left me in the water. They left me to drown because I'm a dwarf!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 600000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "fd576abf31db101c",
+      "name": "Shawn: nobody asked",
+      "path": "modules/sr2e-missions/assets/audio/mal7-shawn-nobody.mp3",
+      "description": "[barely audible] Nobody ever asked me. [pause] Nobody ever looks at me. [bitter laugh] Brown did.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 700000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "5d45ab6b4ea93818",
+      "name": "Yamato: that's him",
+      "path": "modules/sr2e-missions/assets/audio/mal8-yamato-cuffs.mp3",
+      "description": "[tired, satisfied] That's him. [beat] Take him. Gently — he's no use to me dead. [to the team] Good work. Really.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 800000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "62d574bd44c56920",
+      "name": "Doctor Bob: thank you",
+      "path": "modules/sr2e-missions/assets/audio/mal8-bob-thanks.mp3",
+      "description": "[quiet, emotional] Thank you. [pause] I can't bring them back. [breath] But maybe now nobody else ends up like my team.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 900000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    }
+  ],
   "ownership": {
     "default": 0
   },

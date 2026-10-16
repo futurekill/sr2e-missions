@@ -40,3 +40,14 @@ offset: book page N = PDF page N + 1.
 ## Copyright
 *Missions* / *Shadowrun* are © FASA and rights holders. Personal table use only.
 Keep `_work/` out of git; keep the repo private.
+
+## Soundboard audio
+`tools/data/mi-audio.json` is the script; `npm run audio` generates any missing
+`assets/audio/<id>.mp3` through ElevenLabs (`ELEVENLABS_API_KEY` from `~/.zshrc`, model
+`eleven_v4`) and writes the `mi-audio` Playlist pack; `--pack` skips the API, `--verify`
+transcribes every clip and flags word drift. Same tool as Double Exposure's. Every line
+gets performance cues: one to open it and more where the delivery turns (`[sighs]`,
+`[beat]`, `[whispers]`); the user calls them the key to natural speech. Same players
+run the whole campaign: never reuse a named character's voice, and keep bit-part stock
+voices distinct from DE's. Never voice the book's boxed text (public repo).
+

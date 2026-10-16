@@ -10,7 +10,122 @@
   "sorting": "m",
   "seed": null,
   "sort": 0,
-  "sounds": [],
+  "sounds": [
+    {
+      "_id": "c755e48c6b9085ba",
+      "name": "Read-aloud: Captain Burns's office",
+      "path": "modules/sr2e-missions/assets/audio/uti1-read-burns.mp3",
+      "description": "[dry] Captain Burns looks unhappy today. [pause] He always looks unhappy. But today, more so... and he's called you into his office, which means whatever he's about to say is going to make you unhappy too.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "c0bc80617f163ba3",
+      "name": "Burns: sit down",
+      "path": "modules/sr2e-missions/assets/audio/uti1-burns-sit.mp3",
+      "description": "[gruff sigh] Sit. [beat] No, the other chair. That one's mine.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "4a23234575b3c138",
+      "name": "Burns: one of ours went dark",
+      "path": "modules/sr2e-missions/assets/audio/uti1-burns-job.mp3",
+      "description": "[grim, low] One of our undercover people has gone dark. [beat] Franco Tanner. [pause] He was inside a gang called the Futuremen... [sighs] and his last report named somebody called... Doctor Cuca.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "6e0c30b69280ce56",
+      "name": "Burns: quietly",
+      "path": "modules/sr2e-missions/assets/audio/uti1-burns-quiet.mp3",
+      "description": "[low] The brass wants him found. Quietly. [beat] No press, no task force, no cowboy drek. You bring him home, and nobody ever hears about it.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "3af90cbda651eb61",
+      "name": "Read-aloud: the Solomon Arms",
+      "path": "modules/sr2e-missions/assets/audio/uti2-read-hotel.mp3",
+      "description": "[wry] The Solomon Arms has seen better decades. [pause] Third floor, Tanner's suite: locked, quiet, no sign of a struggle. Just a slob's nest of dirty socks and Nuke-It Burger wrappers... and garbage that hasn't started to stink yet. [low] He's been gone maybe a day.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 500000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "9eea16373320424a",
+      "name": "SFX: run-down hotel corridor",
+      "path": "modules/sr2e-missions/assets/audio/uti2-sfx-hotel.mp3",
+      "description": "",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 600000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    }
+  ],
   "ownership": {
     "default": 0
   },

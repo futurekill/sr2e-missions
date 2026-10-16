@@ -10,7 +10,255 @@
   "sorting": "m",
   "seed": null,
   "sort": 200000,
-  "sounds": [],
+  "sounds": [
+    {
+      "_id": "a3ef608f1c2d68c4",
+      "name": "Read-aloud: the warehouse",
+      "path": "modules/sr2e-missions/assets/audio/uti5-read-ambush.mp3",
+      "description": "[tense] An abandoned warehouse near Green Lake. Even the rats have left. [pause] Footsteps — far end of the alley. Then behind you. Then everywhere. [beat] Tanner's clawing for his Browning... and he's pointing it at you.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "3c3c06debc5aab98",
+      "name": "SFX: footsteps closing in",
+      "path": "modules/sr2e-missions/assets/audio/uti5-sfx-footsteps.mp3",
+      "description": "",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "ffed32714b5f0285",
+      "name": "Tanner: I'm fine",
+      "path": "modules/sr2e-missions/assets/audio/uti5-tanner-quiet.mp3",
+      "description": "[distant, flat] I'm fine. [pause] I'm fine. Let's just... get to the meet.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "8566519929f63926",
+      "name": "Tanner: I can't stop",
+      "path": "modules/sr2e-missions/assets/audio/uti5-tanner-gun.mp3",
+      "description": "[strained, fighting himself] Get down — I can't — [gasps] I can't stop my hands! Get away from me!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "a53822bb08a5d3f3",
+      "name": "Tanner: it's me again",
+      "path": "modules/sr2e-missions/assets/audio/uti5-tanner-free.mp3",
+      "description": "[weak, shaking] It's me. It's... me again. [breathing hard] He put something in my head. Cuca. [quietly] Get it out.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 500000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "c082eff3b3a5f065",
+      "name": "Futureman: ambush",
+      "path": "modules/sr2e-missions/assets/audio/uti5-fm-ambush.mp3",
+      "description": "[shouting] Now! Light 'em up! [laughs] Doc says nobody walks away!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 600000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "ea425cee9d9fe94e",
+      "name": "Futureman: is that all?",
+      "path": "modules/sr2e-missions/assets/audio/uti5-fm-tough.mp3",
+      "description": "[grunts, then laughs] Is that all you got? [cracking knuckles] My turn.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 700000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "f2710e0c48c0800c",
+      "name": "Read-aloud: time to pay",
+      "path": "modules/sr2e-missions/assets/audio/uti6-read-raid.mp3",
+      "description": "[grim] Enough is enough. A private army in the streets is bad. Bagging a fellow officer? [pause] That's the thing the Star does not tolerate. [beat] As you check your sidearm, you secretly hope the doctor resists arrest.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 800000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "a7dbdbe9a15c51c3",
+      "name": "Powell: wipe it",
+      "path": "modules/sr2e-missions/assets/audio/uti6-powell-wipe.mp3",
+      "description": "[cold, clipped, into a commlink] Start the wipe. All of it. [pause] And arm the charges — I want nothing left down here.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 900000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "03752271a62f434a",
+      "name": "Powell: let's be reasonable",
+      "path": "modules/sr2e-missions/assets/audio/uti6-powell-deal.mp3",
+      "description": "[smooth] Let's be reasonable. You don't want Renraku as an enemy. [beat] Walk away now, and there's a very generous bonus in it for everyone.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1000000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "f64ef94630046c54",
+      "name": "Cuca: you don't understand",
+      "path": "modules/sr2e-missions/assets/audio/uti6-cuca-cornered.mp3",
+      "description": "[frantic] You don't understand what this is! [pleading] Ten years of work — ten years! You can't just throw it away!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1100000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "f325abbec1265557",
+      "name": "Cuca: not like this",
+      "path": "modules/sr2e-missions/assets/audio/uti6-cuca-flee.mp3",
+      "description": "[panicked laugh] No. No, no, no — not like this. [breathless] Powell! Powell, wait for me!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1200000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "4337653bdfd74352",
+      "name": "SFX: demolition countdown",
+      "path": "modules/sr2e-missions/assets/audio/uti6-sfx-charges.mp3",
+      "description": "",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1300000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    }
+  ],
   "ownership": {
     "default": 0
   },

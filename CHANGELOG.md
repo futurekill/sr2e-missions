@@ -2,6 +2,21 @@
 
 ## Unreleased
 
+### Added — a soundboard
+- **Missions — Soundboard** compendium: six playlists, three per adventure, 70 clips.
+  Import one, and each sound plays for everyone when the GM clicks it (Soundboard
+  Only, so nothing plays by itself).
+- Designed voices for Dr. Cuca, Lindy, Doctor Bob, Liz Yamato, Earl Brown, and
+  DocWagon Expert Team Three (Seth Palatine, Viv Geldhausmann, Hawkeye Kurtz, Shawn
+  Ferrer); the read-alouds use the campaign narrator. Stock voices, different from
+  Double Exposure's, play Captain Burns, Sgt. Tanner, Marcus Powell, the Futuremen,
+  DocWagon dispatch and Gloria Tanaka.
+- Sound effects and looping ambience: MindSound Music, Pier 60, the DocWagon garage,
+  sirens and firefights, the cockatrice warehouse, Brown's guided blasts.
+- Lines are performed (ElevenLabs v4 with direction such as [sighs] and [whispers]) and
+  are original text, not the book's boxed text. Malpractice follows the book's default
+  mole (Shawn); swapping the mole means rewriting his confession lines.
+
 ### Fixed
 - **Lindy is the store's clerk, not "Dr. Cuca".** The actor was named "Lindy (a.k.a.
   'Dr. Cuca')" and its bio had him running the clinic. In the book he is a Renraku

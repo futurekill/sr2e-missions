@@ -10,7 +10,312 @@
   "sorting": "m",
   "seed": null,
   "sort": 300000,
-  "sounds": [],
+  "sounds": [
+    {
+      "_id": "615239c803a81b74",
+      "name": "SFX: Pier 60 restaurant (loop)",
+      "path": "modules/sr2e-missions/assets/audio/mal1-sfx-pier.mp3",
+      "description": "",
+      "repeat": true,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "89b15fa02b4aaca1",
+      "name": "Read-aloud: Pier 60",
+      "path": "modules/sr2e-missions/assets/audio/mal1-read-pier.mp3",
+      "description": "[light] A little boy caroms off your leg on his way to the window — [pause] boats! — before his mother drags him off, apologising. The suits all around pretend not to stare. [beat] And at a big booth loaded with food, in a faded Sonics shirt, sits your contact.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "ea0a2a0c6a31369e",
+      "name": "Doctor Bob: hoi!",
+      "path": "modules/sr2e-missions/assets/audio/mal1-bob-hoi.mp3",
+      "description": "[warmly] Hoi! Glad you came. Sit, sit! [laughs] No way I finish all this alone. I didn't know what you'd like, so I ordered two of everything.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "82a0bbd0ebd277c5",
+      "name": "Doctor Bob: my team",
+      "path": "modules/sr2e-missions/assets/audio/mal1-bob-story.mp3",
+      "description": "[quiet, heavy] I used to save lives for a living. [pause] Then a man named Brown came asking for client records. I said no. [beat] Three days later my team was dead. Everybody thinks I am too.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "f6e983d639976f27",
+      "name": "Doctor Bob: the mole",
+      "path": "modules/sr2e-missions/assets/audio/mal1-bob-mole.mp3",
+      "description": "[earnest] Somebody inside DocWagon is still feeding him. Selling people's DNA. [firmly] I need you to find out who.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 500000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "9a3f7ad7eca07b4b",
+      "name": "Doctor Bob: I can't pay much",
+      "path": "modules/sr2e-missions/assets/audio/mal1-bob-pay.mp3",
+      "description": "[sheepish] I'll be honest, I can't pay much. [beat] But I can promise you this is the right thing to do. [small laugh] That's worth something, right?",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 600000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "7c78c641bb5b2d1a",
+      "name": "Read-aloud: Redmond clinic",
+      "path": "modules/sr2e-missions/assets/audio/mal2-read-clinic.mp3",
+      "description": "[measured] The Redmond clinic is too white, too clean, and smells of the sick and the dead. [pause] The Citymaster's parked exactly where Bob said... and a dwarf woman leans on its door, watching you come.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 700000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "1f1fc0909faf9b61",
+      "name": "Yamato: need a shot of Morphine?",
+      "path": "modules/sr2e-missions/assets/audio/mal2-yamato-sign.mp3",
+      "description": "[dry] Any of you need a shot of Morphine?",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 800000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "3ce1faa136579f33",
+      "name": "Yamato: get in",
+      "path": "modules/sr2e-missions/assets/audio/mal2-yamato-getin.mp3",
+      "description": "[brisk] Get in. [beat] It's time to turn you lot into spies.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 900000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "f58c833343385983",
+      "name": "Yamato: forty-eight hours",
+      "path": "modules/sr2e-missions/assets/audio/mal2-yamato-48.mp3",
+      "description": "[brisk] You've got forty-eight hours to learn what took our medics two years. [beat] [flatly] Don't embarrass me... [pointed] and don't blow my cover.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1000000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "d37b68c2b6fb568f",
+      "name": "Yamato: hard proof",
+      "path": "modules/sr2e-missions/assets/audio/mal3-yamato-proof.mp3",
+      "description": "[serious] Get me hard proof one of the four is the mole. [pause] Until then my hands are tied. [beat] And he's no use to me dead. Understood?",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1100000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "369600d831522a41",
+      "name": "SFX: DocWagon garage klaxon",
+      "path": "modules/sr2e-missions/assets/audio/mal3-sfx-garage.mp3",
+      "description": "",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1200000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "b65f4f635bd362ca",
+      "name": "Seth: welcome to Team Three",
+      "path": "modules/sr2e-missions/assets/audio/mal3-seth-intro.mp3",
+      "description": "[calm, businesslike] Seth Palatine. Team lead. [beat] You'll be riding Threat Response with us. Keep up and do what I say, and we'll get along fine.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1300000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "fbccb6ead2e4676a",
+      "name": "Viv: call me Viv",
+      "path": "modules/sr2e-missions/assets/audio/mal3-viv-intro.mp3",
+      "description": "[bright, warm] Call me Viv! [laughs] Oh, don't mind the trid, it's always on. Tea? You look like you could use a tea.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1400000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "fb2a6ff839c34037",
+      "name": "Hawkeye: the new terps",
+      "path": "modules/sr2e-missions/assets/audio/mal3-hawkeye-intro.mp3",
+      "description": "[not looking up] Oh great, the new terps. [snorts] Try not to bleed on my kimono, it's silk.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1500000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "d799e99e73b112a9",
+      "name": "Seth: that's Shawn",
+      "path": "modules/sr2e-missions/assets/audio/mal3-seth-shawn.mp3",
+      "description": "[mildly] There's also Shawn. [pause] I think he might be sleeping.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1600000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    }
+  ],
   "ownership": {
     "default": 0
   },

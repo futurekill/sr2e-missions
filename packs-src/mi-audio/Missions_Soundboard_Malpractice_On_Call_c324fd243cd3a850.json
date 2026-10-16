@@ -10,7 +10,312 @@
   "sorting": "m",
   "seed": null,
   "sort": 400000,
-  "sounds": [],
+  "sounds": [
+    {
+      "_id": "7f3b9c4c318a29ae",
+      "name": "Dispatch: crisis call",
+      "path": "modules/sr2e-missions/assets/audio/mal4-dispatch-crisis.mp3",
+      "description": "[over a PA, urgent] Expert Team Three, report to ambulance eight-four-four-oh-one! [beat] Crisis at Thomas and Fairview — [emphatic] immediately!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 100000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "f02f0454607cf608",
+      "name": "SFX: Citymaster under siren",
+      "path": "modules/sr2e-missions/assets/audio/mal4-sfx-siren.mp3",
+      "description": "",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 200000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "9dfa24df39e91575",
+      "name": "Seth: here's the situation",
+      "path": "modules/sr2e-missions/assets/audio/mal4-seth-brief.mp3",
+      "description": "[crisp] Here's the situation, terps. Client's twenty-three, registered datajack. [pause] Severe head trauma — and there's gunfire on the call.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 300000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "54dfd0d68a6e89ae",
+      "name": "Seth: get a move on",
+      "path": "modules/sr2e-missions/assets/audio/mal4-seth-move.mp3",
+      "description": "[urgent] Come on, terp, get a move on! [shouting] The longer we wait, the sooner she dies!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 400000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "0e81574643fdfb10",
+      "name": "SFX: firefight at the scene",
+      "path": "modules/sr2e-missions/assets/audio/mal4-sfx-firefight.mp3",
+      "description": "",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 500000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "58d71cc9c944faef",
+      "name": "Viv: deep breath, love",
+      "path": "modules/sr2e-missions/assets/audio/mal4-viv-calm.mp3",
+      "description": "[gentle, steady] Deep breath, love. Look at me — not at the blood. [softly] That's it. We've got you.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 600000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "4c1aaf4d24b2d130",
+      "name": "Hawkeye: wisecrack",
+      "path": "modules/sr2e-missions/assets/audio/mal4-hawkeye-quip.mp3",
+      "description": "[grinning] Relax, I've done this a hundred times. [beat] Well, ninety. [laughs] Okay, twelve. But I was great in all twelve.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 700000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "c01c693aca035690",
+      "name": "Hawkeye: crashing",
+      "path": "modules/sr2e-missions/assets/audio/mal4-hawkeye-mean.mp3",
+      "description": "[bitter, snapping] What? What are you looking at? [sneering] You think you're better than me, terp? Say it. Go on, say it.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 800000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "ca0347700e30f744",
+      "name": "Gloria Tanaka: the call",
+      "path": "modules/sr2e-missions/assets/audio/mal5-gloria-call.mp3",
+      "description": "[breathless, panicked] My name is Gloria Tanaka — please, you have to hurry! [voice shaking] The cockatrices got out. Everyone's on the floor, they can't move, and they're starting to wake up!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 900000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "a6469b7d4aa98edd",
+      "name": "Gloria: don't hurt them",
+      "path": "modules/sr2e-missions/assets/audio/mal5-gloria-dont.mp3",
+      "description": "[frantic] Don't hurt them! [quickly] Each one's worth two hundred thousand nuyen — Mr. Barnsworth will kill me!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1000000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "227f29497a674cad",
+      "name": "SFX: cockatrices in the warehouse",
+      "path": "modules/sr2e-missions/assets/audio/mal5-sfx-cockatrice.mp3",
+      "description": "",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1100000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "e4766811337ec539",
+      "name": "Yamato: someone tampered with the logs",
+      "path": "modules/sr2e-missions/assets/audio/mal6-yamato-call.mp3",
+      "description": "[flustered, fast] Glad I caught you. Someone tampered with the security logs — [breath] the DNA records were accessed three hours ago. I think the mole makes the drop tonight. Be on the lookout for—",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1200000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "1332e268d9fa3bfd",
+      "name": "Yamato: keep your eyes open",
+      "path": "modules/sr2e-missions/assets/audio/mal6-yamato-dammit.mp3",
+      "description": "[over a klaxon] Dammit. [quickly] Keep your eyes open. Good luck!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1300000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "3442a4d99bd0b0a1",
+      "name": "SFX: tyre blowout and crash",
+      "path": "modules/sr2e-missions/assets/audio/mal6-sfx-blowout.mp3",
+      "description": "",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1400000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "073bfe192ed0652b",
+      "name": "Shawn: brace for impact",
+      "path": "modules/sr2e-missions/assets/audio/mal6-shawn-brace.mp3",
+      "description": "[sudden, sharp] Brace for impact!",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1500000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    },
+    {
+      "_id": "b68d059a2f19d39e",
+      "name": "Shawn: be right back",
+      "path": "modules/sr2e-missions/assets/audio/mal6-shawn-booth.mp3",
+      "description": "[quietly] Front right tyre blew. Radio's down. [pause] There's a telecom booth just over there. [beat] Be right back.",
+      "repeat": false,
+      "volume": 0.8,
+      "fade": null,
+      "sort": 1600000,
+      "channel": "",
+      "playing": false,
+      "pausedTime": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.103.1"
+      }
+    }
+  ],
   "ownership": {
     "default": 0
   },
