@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.4.0 — 2026-10-16
 
 ### Added — a soundboard
 - **Missions — Soundboard** compendium: six playlists, three per adventure, 70 clips.
