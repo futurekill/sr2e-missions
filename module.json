@@ -48,6 +48,17 @@
       "path": "packs/mi-scenes",
       "type": "Scene",
       "system": "sr2e"
+    },
+    {
+      "name": "mi-audio",
+      "label": "Missions — Soundboard",
+      "type": "Playlist",
+      "path": "packs/mi-audio",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -57,7 +68,8 @@
       "packs": [
         "mi-journals",
         "mi-scenes",
-        "mi-cast"
+        "mi-cast",
+        "mi-audio"
       ]
     }
   ],

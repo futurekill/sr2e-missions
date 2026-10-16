@@ -10,7 +10,7 @@ Built to drop into the **downtime gaps of the Double Exposure campaign** (Seattl
 2055). Phase 1 covers the two Seattle adventures that fit DE's runner team and
 investigation tone:
 - **Under the Influence** (book p.5–25) — missing Lone Star UC cop, a cybered
-  street gang, an Aztechnology behavioural-cyberware plot. Foreshadows DE's
+  street gang, a Renraku behavioural-cyberware plot. Foreshadows DE's
   mind-control horror.
 - **Malpractice** (book p.26–51) — runners go undercover as DocWagon HTR medics
   to catch a mole selling medical records/DNA. Bridges off DE segment 2 (a

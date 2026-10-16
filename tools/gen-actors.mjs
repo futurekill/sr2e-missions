@@ -27,9 +27,11 @@ for (const [k, f] of Object.entries(FOLDERS)) {
 // x: name, folder, b,q,s,c,i,w, e, r (boosted Reaction), initDice, armorB, armorI,
 // threat, pro, race, bio (HTML). Initiative base = r.
 function npc(x) {
-  const id = sha("mi-npc:" + x.name);
+  // `key` pins the id and portrait to an earlier name, so a renamed actor keeps both.
+  const key = x.key ?? x.name;
+  const id = sha("mi-npc:" + key);
   return {
-    _id: id, name: x.name, type: "npc", img: portrait(x.name),
+    _id: id, name: x.name, type: "npc", img: portrait(key),
     system: {
       biography: x.bio, race: x.race || "human", professionalRating: x.pro ?? 2,
       body: attr(x.b), quickness: attr(x.q), strength: attr(x.s),
@@ -46,7 +48,7 @@ function npc(x) {
     items: [], effects: [], folder: x.folder ? folderId(x.folder) : null, sort: 0,
     flags: {}, _stats: STATS,
     prototypeToken: { name: x.name, displayName: 0, actorLink: false, width: 1, height: 1,
-      texture: { src: portrait(x.name), anchorX: 0.5, anchorY: 0.5, offsetX: 0, offsetY: 0, fit: "cover", scaleX: 1, scaleY: 1, rotation: 0, tint: "#ffffff" },
+      texture: { src: portrait(key), anchorX: 0.5, anchorY: 0.5, offsetX: 0, offsetY: 0, fit: "cover", scaleX: 1, scaleY: 1, rotation: 0, tint: "#ffffff" },
       lockRotation: true, disposition: x.disp ?? -1 },
     ownership: { default: 0 }, _key: `!actors!${id}`
   };
@@ -54,9 +56,9 @@ function npc(x) {
 
 const CAST = [
   {
-    name: "Lindy (a.k.a. \"Dr. Cuca\")", folder: "influence",
+    name: "Lindy", key: "Lindy (a.k.a. \"Dr. Cuca\")", folder: "influence",
     b: 6, q: 6, s: 4, c: 5, i: 5, w: 4, e: 2.15, r: 10, initDice: 3, armorB: 4, armorI: 3, threat: 4, pro: 3,
-    bio: `<p>A Renraku covert operative running the hidden chop shop as cyberdoc "Dr. Cuca," screening the desperate before admitting "patients" to the body shop. Bright, dangerous, and not easily fooled — a capable combatant if cornered.</p>
+    bio: `<p>The clerk at the music store fronting Dr. Cuca's clinic, and really a Renraku covert operative. He screens would-be "patients" before taking them downstairs to Cuca (Dr. Claudio Andrade), and keeps an eye out for trouble: friendly to anyone bringing new patients, stalling for an ambush if the Renraku crew know Tanner is a cop. Bright and not easily fooled, a capable combatant if cornered, and the store's surveillance brings plainclothes Renraku soldiers from the back at any sign of trouble. Earlier versions of this module called him "Dr. Cuca"; he isn't (Missions p.12).</p>
       <p><strong>Skills:</strong> Firearms 6, Unarmed Combat 6.</p>
       <p><strong>Cyberware:</strong> Retractable Spur, Skillwires Plus (3), Softlink (3), Wired Reflexes (2). <strong>Bioware:</strong> Enhanced Articulation, Orthoskin (3), Trauma Damper.</p>
       <p><strong>Gear:</strong> Form-Fitting Body Armor-2 (3/1), Ares Viper Slivergun (heavy pistol, 9S flechette, SA/BF, 30-round clip); skillsofts — Music (3), Biotech (3), Amazonian Portuguese (3).</p>

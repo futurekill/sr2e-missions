@@ -6,7 +6,8 @@
     "extract-packs": "node tools/extract-packs.mjs",
     "build-packs": "node tools/build-packs.mjs",
     "validate": "node tools/validate-packs.mjs",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "audio": "node tools/gen-audio.mjs"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.5",

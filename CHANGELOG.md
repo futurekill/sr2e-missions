@@ -1,5 +1,19 @@
 # Changelog
 
+## Unreleased
+
+### Fixed
+- **Lindy is the store's clerk, not "Dr. Cuca".** The actor was named "Lindy (a.k.a.
+  'Dr. Cuca')" and its bio had him running the clinic. In the book he is a Renraku
+  operative behind the music store's counter who screens "patients" for the real Dr.
+  Cuca, Dr. Claudio Andrade (p.12). The actor keeps its id and portrait.
+- Under the Influence's villains are **Renraku**, not Aztechnology, in the "Filling
+  Double Exposure's Gaps" journal.
+- **Scenes taken from the Scenes compendium would have lost their walls, doors and
+  regions** once real maps add them. The pack build now stores them the way Foundry
+  expects (as Queen Euphoria and Double Exposure do), and `npm run validate` checks
+  their ids. Pulling edits back from Foundry no longer drops journal page content.
+
 ## 0.3.0 — Cast portraits
 
 All 14 Missions NPCs now have custom painterly portraits (square 1024px,
