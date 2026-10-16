@@ -1,0 +1,24 @@
+{
+  "_id": "1984b892eb95d0aa",
+  "name": "Missions Soundboard — Under the Influence: Chez Cuca",
+  "description": "Click a sound to play it for everyone.",
+  "mode": -1,
+  "channel": "music",
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "m",
+  "seed": null,
+  "sort": 100000,
+  "sounds": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.103.1"
+  },
+  "_key": "!playlists!1984b892eb95d0aa"
+}

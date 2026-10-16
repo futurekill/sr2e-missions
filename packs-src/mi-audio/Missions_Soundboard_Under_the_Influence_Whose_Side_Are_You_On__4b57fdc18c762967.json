@@ -1,0 +1,24 @@
+{
+  "_id": "4b57fdc18c762967",
+  "name": "Missions Soundboard — Under the Influence: Whose Side Are You On?",
+  "description": "Click a sound to play it for everyone.",
+  "mode": -1,
+  "channel": "music",
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "m",
+  "seed": null,
+  "sort": 200000,
+  "sounds": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.103.1"
+  },
+  "_key": "!playlists!4b57fdc18c762967"
+}

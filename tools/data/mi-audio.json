@@ -1,0 +1,523 @@
+{
+  "_comment": "Soundboard script for tools/gen-audio.mjs. Original lines only, never the book's boxed text (the repo is public). Write lines the way people talk; [tags] are performed by eleven_v4. A clip's file is assets/audio/<id>.mp3; delete it to regenerate. A voice with no id is skipped until it has one. Bit-part stock voices differ from Double Exposure's (same players across the campaign).",
+  "voices": {
+    "narrator": {
+      "name": "QE – Narrator (campaign narrator)",
+      "id": "91cf6YfAaKJGkzsQ4Z9S"
+    },
+    "cuca": {
+      "name": "MI – Dr. Cuca (Andrade)",
+      "id": null
+    },
+    "lindy": {
+      "name": "MI – Lindy",
+      "id": null
+    },
+    "doctorbob": {
+      "name": "MI – Doctor Bob",
+      "id": null
+    },
+    "yamato": {
+      "name": "MI – Liz Yamato",
+      "id": null
+    },
+    "palatine": {
+      "name": "MI – Seth Palatine",
+      "id": null
+    },
+    "viv": {
+      "name": "MI – Viv Geldhausmann",
+      "id": null
+    },
+    "hawkeye": {
+      "name": "MI – Gordon \"Hawkeye\" Kurtz",
+      "id": null
+    },
+    "ferrer": {
+      "name": "MI – Shawn Ferrer",
+      "id": null
+    },
+    "brown": {
+      "name": "MI – Earl Brown",
+      "id": null
+    },
+    "burns": {
+      "name": "Bill (stock)",
+      "id": "pqHfZKP75CvOlQylNhV4"
+    },
+    "tanner": {
+      "name": "Brian (stock)",
+      "id": "nPczCjzI2devNBz1zQrb"
+    },
+    "powell": {
+      "name": "Eric (stock)",
+      "id": "cjVigY5qzO86Huf0OWal"
+    },
+    "futureman": {
+      "name": "Harry (stock)",
+      "id": "SOYHLrjzK2X1ezoPC6cr"
+    },
+    "dispatch": {
+      "name": "Alice (stock)",
+      "id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    "gloria": {
+      "name": "Laura (stock)",
+      "id": "FGY2WhTYpPnrIDTdsKH5"
+    }
+  },
+  "playlists": [
+    {
+      "name": "Missions Soundboard — Under the Influence: Gone Dark",
+      "clips": [
+        {
+          "id": "uti1-read-burns",
+          "label": "Read-aloud: Captain Burns's office",
+          "voice": "narrator",
+          "text": "[dry] Captain Burns looks unhappy today. [pause] He always looks unhappy. But today, more so... and he's called you into his office, which means whatever he's about to say is going to make you unhappy too."
+        },
+        {
+          "id": "uti1-burns-sit",
+          "label": "Burns: sit down",
+          "voice": "burns",
+          "text": "[gruff sigh] Sit. [beat] No, the other chair. That one's mine."
+        },
+        {
+          "id": "uti1-burns-job",
+          "label": "Burns: one of ours went dark",
+          "voice": "burns",
+          "text": "One of our undercover people has gone dark. Franco Tanner. [pause] He was inside a gang called the Futuremen, and his last report named somebody called... Doctor Cuca."
+        },
+        {
+          "id": "uti1-burns-quiet",
+          "label": "Burns: quietly",
+          "voice": "burns",
+          "text": "[low] The brass wants him found. Quietly. [beat] No press, no task force, no cowboy drek. You bring him home, and nobody ever hears about it."
+        },
+        {
+          "id": "uti2-read-hotel",
+          "label": "Read-aloud: the Solomon Arms",
+          "voice": "narrator",
+          "text": "[wry] The Solomon Arms has seen better decades. [pause] Third floor, Tanner's suite: locked, quiet, no sign of a struggle. Just a slob's nest of dirty socks and Nuke-It Burger wrappers... and garbage that hasn't started to stink yet. [low] He's been gone maybe a day."
+        },
+        {
+          "id": "uti2-sfx-hotel",
+          "label": "SFX: run-down hotel corridor",
+          "sfx": "A run-down hotel hallway at night: a buzzing broken light, a distant trideo through a thin wall, a creaking floorboard",
+          "seconds": 8
+        }
+      ]
+    },
+    {
+      "name": "Missions Soundboard — Under the Influence: Chez Cuca",
+      "clips": [
+        {
+          "id": "uti3-sfx-store",
+          "label": "SFX: MindSound Music (loop)",
+          "sfx": "A small music store: soft synth music playing on speakers, a door chime, faint chatter and an espresso machine from a cafe next door",
+          "seconds": 20,
+          "loop": true
+        },
+        {
+          "id": "uti3-read-store",
+          "label": "Read-aloud: MindSound Music",
+          "voice": "narrator",
+          "text": "[low] MindSound Music is legit enough on the surface. [pause] A cheap electronics shop, an Amazonian café... and somewhere under all of it, a body shop, screened behind layers of misdirection and one very friendly clerk."
+        },
+        {
+          "id": "uti3-lindy-help",
+          "label": "Lindy: can I help you?",
+          "voice": "lindy",
+          "text": "[easygoing] Hey, welcome in! Looking for anything special today? [beat] Or... something not on the shelves?"
+        },
+        {
+          "id": "uti3-lindy-who",
+          "label": "Lindy: who sent you?",
+          "voice": "lindy",
+          "text": "[friendly, but watching] Sure, I might know a guy. [pause] Who sent you down here, though? I like to know who I'm talking to."
+        },
+        {
+          "id": "uti3-lindy-downstairs",
+          "label": "Lindy: the doctor will see you",
+          "voice": "lindy",
+          "text": "[pleased] All right, you check out. [lowering voice] Follow me downstairs. The doctor'll take good care of you."
+        },
+        {
+          "id": "uti3-lindy-stall",
+          "label": "Lindy: just a minute",
+          "voice": "lindy",
+          "text": "[too casual] Oh, the doctor? Yeah, yeah, he's just finishing up with someone. [beat] Grab a seat. Shouldn't be more than a minute."
+        },
+        {
+          "id": "uti3-lindy-deny",
+          "label": "Lindy: never heard of him",
+          "voice": "lindy",
+          "text": "[blank smile] Cuca? Tanner? [shrugs] Never heard of either one, officer. Can I interest you in a synth?"
+        },
+        {
+          "id": "uti3-cuca-welcome",
+          "label": "Cuca: welcome, my friends",
+          "voice": "cuca",
+          "text": "[delighted] Ah! Come in, come in! [laughs] Sit, please, sit. You want speed? Strength? I have things here the corporations won't sell you for another ten years!"
+        },
+        {
+          "id": "uti3-cuca-sell",
+          "label": "Cuca: you don't need it, you want it",
+          "voice": "cuca",
+          "text": "[eagerly] You don't need it, my friend — you want it. That's different! [leaning in] And for you? A very special price."
+        },
+        {
+          "id": "uti3-cuca-trust",
+          "label": "Cuca: trust me",
+          "voice": "cuca",
+          "text": "[warm, a little manic] Relax. Breathe. [softly] Trust me — you'll never feel better in your life."
+        }
+      ]
+    },
+    {
+      "name": "Missions Soundboard — Under the Influence: Whose Side Are You On?",
+      "clips": [
+        {
+          "id": "uti5-read-ambush",
+          "label": "Read-aloud: the warehouse",
+          "voice": "narrator",
+          "text": "[tense] An abandoned warehouse near Green Lake. Even the rats have left. [pause] Footsteps — far end of the alley. Then behind you. Then everywhere. [beat] Tanner's clawing for his Browning... and he's pointing it at you."
+        },
+        {
+          "id": "uti5-sfx-footsteps",
+          "label": "SFX: footsteps closing in",
+          "sfx": "Many heavy boots splashing through puddles in a dark alley, closing in from several directions, a gun being cocked",
+          "seconds": 6
+        },
+        {
+          "id": "uti5-tanner-quiet",
+          "label": "Tanner: I'm fine",
+          "voice": "tanner",
+          "text": "[distant, flat] I'm fine. [pause] I'm fine. Let's just... get to the meet."
+        },
+        {
+          "id": "uti5-tanner-gun",
+          "label": "Tanner: I can't stop",
+          "voice": "tanner",
+          "text": "[strained, fighting himself] Get down — I can't — [gasps] I can't stop my hands! Get away from me!"
+        },
+        {
+          "id": "uti5-tanner-free",
+          "label": "Tanner: it's me again",
+          "voice": "tanner",
+          "text": "[weak, shaking] It's me. It's... me again. [breathing hard] He put something in my head. Cuca. [quietly] Get it out."
+        },
+        {
+          "id": "uti5-fm-ambush",
+          "label": "Futureman: ambush",
+          "voice": "futureman",
+          "text": "[shouting] Now! Light 'em up! [laughs] Doc says nobody walks away!"
+        },
+        {
+          "id": "uti5-fm-tough",
+          "label": "Futureman: is that all?",
+          "voice": "futureman",
+          "text": "[grunts, then laughs] Is that all you got? [cracking knuckles] My turn."
+        },
+        {
+          "id": "uti6-read-raid",
+          "label": "Read-aloud: time to pay",
+          "voice": "narrator",
+          "text": "[grim] Enough is enough. A private army in the streets is bad. Bagging a fellow officer? [pause] That's the thing the Star does not tolerate. [beat] As you check your sidearm, you secretly hope the doctor resists arrest."
+        },
+        {
+          "id": "uti6-powell-wipe",
+          "label": "Powell: wipe it",
+          "voice": "powell",
+          "text": "[cold, clipped, into a commlink] Start the wipe. All of it. [pause] And arm the charges — I want nothing left down here."
+        },
+        {
+          "id": "uti6-powell-deal",
+          "label": "Powell: let's be reasonable",
+          "voice": "powell",
+          "text": "[smooth] Let's be reasonable. You don't want Renraku as an enemy. [beat] Walk away now, and there's a very generous bonus in it for everyone."
+        },
+        {
+          "id": "uti6-cuca-cornered",
+          "label": "Cuca: you don't understand",
+          "voice": "cuca",
+          "text": "[frantic] You don't understand what this is! [pleading] Ten years of work — ten years! You can't just throw it away!"
+        },
+        {
+          "id": "uti6-cuca-flee",
+          "label": "Cuca: not like this",
+          "voice": "cuca",
+          "text": "[panicked laugh] No. No, no, no — not like this. [breathless] Powell! Powell, wait for me!"
+        },
+        {
+          "id": "uti6-sfx-charges",
+          "label": "SFX: demolition countdown",
+          "sfx": "An automated electronic voice-less countdown: urgent beeping that speeds up, a facility alarm wailing underneath",
+          "seconds": 10
+        }
+      ]
+    },
+    {
+      "name": "Missions Soundboard — Malpractice: Joining the Wagon",
+      "clips": [
+        {
+          "id": "mal1-sfx-pier",
+          "label": "SFX: Pier 60 restaurant (loop)",
+          "sfx": "A busy waterfront restaurant: chatter, cutlery, a child laughing, seagulls and harbour boat horns outside the windows",
+          "seconds": 20,
+          "loop": true
+        },
+        {
+          "id": "mal1-read-pier",
+          "label": "Read-aloud: Pier 60",
+          "voice": "narrator",
+          "text": "[light] A little boy caroms off your leg on his way to the window — [pause] boats! — before his mother drags him off, apologising. The suits all around pretend not to stare. [beat] And at a big booth loaded with food, in a faded Sonics shirt, sits your contact."
+        },
+        {
+          "id": "mal1-bob-hoi",
+          "label": "Doctor Bob: hoi!",
+          "voice": "doctorbob",
+          "text": "[warmly] Hoi! Glad you came. Sit, sit! [laughs] No way I finish all this alone. I didn't know what you'd like, so I ordered two of everything."
+        },
+        {
+          "id": "mal1-bob-story",
+          "label": "Doctor Bob: my team",
+          "voice": "doctorbob",
+          "text": "[quiet, heavy] I used to save lives for a living. [pause] Then a man named Brown came asking for client records. I said no. [beat] Three days later my team was dead. Everybody thinks I am too."
+        },
+        {
+          "id": "mal1-bob-mole",
+          "label": "Doctor Bob: the mole",
+          "voice": "doctorbob",
+          "text": "[earnest] Somebody inside DocWagon is still feeding him. Selling people's DNA. [firmly] I need you to find out who."
+        },
+        {
+          "id": "mal1-bob-pay",
+          "label": "Doctor Bob: I can't pay much",
+          "voice": "doctorbob",
+          "text": "[sheepish] I'll be honest, I can't pay much. [beat] But I can promise you this is the right thing to do. [small laugh] That's worth something, right?"
+        },
+        {
+          "id": "mal2-read-clinic",
+          "label": "Read-aloud: Redmond clinic",
+          "voice": "narrator",
+          "text": "[measured] The Redmond clinic is too white, too clean, and smells of the sick and the dead. [pause] The Citymaster's parked exactly where Bob said... and a dwarf woman leans on its door, watching you come."
+        },
+        {
+          "id": "mal2-yamato-sign",
+          "label": "Yamato: need a shot of Morphine?",
+          "voice": "yamato",
+          "text": "[dry] Any of you need a shot of Morphine?"
+        },
+        {
+          "id": "mal2-yamato-getin",
+          "label": "Yamato: get in",
+          "voice": "yamato",
+          "text": "[brisk] Get in. [beat] It's time to turn you lot into spies."
+        },
+        {
+          "id": "mal2-yamato-48",
+          "label": "Yamato: forty-eight hours",
+          "voice": "yamato",
+          "text": "You've got forty-eight hours to learn what took our medics two years. [flatly] Don't embarrass me, and don't blow my cover."
+        },
+        {
+          "id": "mal3-yamato-proof",
+          "label": "Yamato: hard proof",
+          "voice": "yamato",
+          "text": "[serious] Get me hard proof one of the four is the mole. [pause] Until then my hands are tied. [beat] And he's no use to me dead. Understood?"
+        },
+        {
+          "id": "mal3-sfx-garage",
+          "label": "SFX: DocWagon garage klaxon",
+          "sfx": "A large ambulance garage: a loud alert klaxon, an ambulance siren starting up and screeching out, engines echoing",
+          "seconds": 8
+        },
+        {
+          "id": "mal3-seth-intro",
+          "label": "Seth: welcome to Team Three",
+          "voice": "palatine",
+          "text": "[calm, businesslike] Seth Palatine. Team lead. [beat] You'll be riding Threat Response with us. Keep up and do what I say, and we'll get along fine."
+        },
+        {
+          "id": "mal3-viv-intro",
+          "label": "Viv: call me Viv",
+          "voice": "viv",
+          "text": "[bright, warm] Call me Viv! [laughs] Oh, don't mind the trid, it's always on. Tea? You look like you could use a tea."
+        },
+        {
+          "id": "mal3-hawkeye-intro",
+          "label": "Hawkeye: the new terps",
+          "voice": "hawkeye",
+          "text": "[not looking up] Oh great, the new terps. [snorts] Try not to bleed on my kimono, it's silk."
+        },
+        {
+          "id": "mal3-seth-shawn",
+          "label": "Seth: that's Shawn",
+          "voice": "palatine",
+          "text": "[mildly] There's also Shawn. [pause] I think he might be sleeping."
+        }
+      ]
+    },
+    {
+      "name": "Missions Soundboard — Malpractice: On Call",
+      "clips": [
+        {
+          "id": "mal4-dispatch-crisis",
+          "label": "Dispatch: crisis call",
+          "voice": "dispatch",
+          "text": "[over a PA, urgent] Expert Team Three, report to ambulance eight-four-four-oh-one! Crisis at Thomas and Fairview — immediately!"
+        },
+        {
+          "id": "mal4-sfx-siren",
+          "label": "SFX: Citymaster under siren",
+          "sfx": "An armoured ambulance racing through city streets under a wailing siren, engine roaring, tyres squealing round a corner",
+          "seconds": 8
+        },
+        {
+          "id": "mal4-seth-brief",
+          "label": "Seth: here's the situation",
+          "voice": "palatine",
+          "text": "[crisp] Here's the situation, terps. Client's twenty-three, registered datajack. [pause] Severe head trauma — and there's gunfire on the call."
+        },
+        {
+          "id": "mal4-seth-move",
+          "label": "Seth: get a move on",
+          "voice": "palatine",
+          "text": "[urgent] Come on, terp, get a move on! [shouting] The longer we wait, the sooner she dies!"
+        },
+        {
+          "id": "mal4-sfx-firefight",
+          "label": "SFX: firefight at the scene",
+          "sfx": "Small and medium calibre gunfire cracking along a city street, rounds pinging off a vehicle, distant police sirens",
+          "seconds": 8
+        },
+        {
+          "id": "mal4-viv-calm",
+          "label": "Viv: deep breath, love",
+          "voice": "viv",
+          "text": "[gentle, steady] Deep breath, love. Look at me — not at the blood. [softly] That's it. We've got you."
+        },
+        {
+          "id": "mal4-hawkeye-quip",
+          "label": "Hawkeye: wisecrack",
+          "voice": "hawkeye",
+          "text": "[grinning] Relax, I've done this a hundred times. [beat] Well, ninety. [laughs] Okay, twelve. But I was great in all twelve."
+        },
+        {
+          "id": "mal4-hawkeye-mean",
+          "label": "Hawkeye: crashing",
+          "voice": "hawkeye",
+          "text": "[bitter, snapping] What? What are you looking at? [sneering] You think you're better than me, terp? Say it. Go on, say it."
+        },
+        {
+          "id": "mal5-gloria-call",
+          "label": "Gloria Tanaka: the call",
+          "voice": "gloria",
+          "text": "[breathless, panicked] My name is Gloria Tanaka — please, you have to hurry! [voice shaking] The cockatrices got out. Everyone's on the floor, they can't move, and they're starting to wake up!"
+        },
+        {
+          "id": "mal5-gloria-dont",
+          "label": "Gloria: don't hurt them",
+          "voice": "gloria",
+          "text": "[frantic] Don't hurt them! [quickly] Each one's worth two hundred thousand nuyen — Mr. Barnsworth will kill me!"
+        },
+        {
+          "id": "mal5-sfx-cockatrice",
+          "label": "SFX: cockatrices in the warehouse",
+          "sfx": "Dozens of large agitated birds squawking and screeching in an echoing warehouse, wings flapping, a crate falling",
+          "seconds": 8
+        },
+        {
+          "id": "mal6-yamato-call",
+          "label": "Yamato: someone tampered with the logs",
+          "voice": "yamato",
+          "text": "[flustered, fast] Glad I caught you. Someone tampered with the security logs — [breath] the DNA records were accessed three hours ago. I think the mole makes the drop tonight. Be on the lookout for—"
+        },
+        {
+          "id": "mal6-yamato-dammit",
+          "label": "Yamato: keep your eyes open",
+          "voice": "yamato",
+          "text": "[over a klaxon] Dammit. [quickly] Keep your eyes open. Good luck!"
+        },
+        {
+          "id": "mal6-sfx-blowout",
+          "label": "SFX: tyre blowout and crash",
+          "sfx": "A sharp tyre blowout pop, an ambulance swerving and grinding along concrete, then slamming into a metal street light",
+          "seconds": 5
+        },
+        {
+          "id": "mal6-shawn-brace",
+          "label": "Shawn: brace for impact",
+          "voice": "ferrer",
+          "text": "[sudden, sharp] Brace for impact!"
+        },
+        {
+          "id": "mal6-shawn-booth",
+          "label": "Shawn: be right back",
+          "voice": "ferrer",
+          "text": "[quietly] Front right tyre blew. Radio's down. [pause] There's a telecom booth just over there. [beat] Be right back."
+        }
+      ]
+    },
+    {
+      "name": "Missions Soundboard — Malpractice: Déjà Vu",
+      "clips": [
+        {
+          "id": "mal7-read-site",
+          "label": "Read-aloud: the construction site",
+          "voice": "narrator",
+          "text": "[uneasy] An easy one, the call said. Just a hurt kid. [pause] The gates stand wide open; skeleton buildings pierce the night. A small crumpled form lies at the base of the nearest frame... [beat] and then a light blazes from the second floor."
+        },
+        {
+          "id": "mal7-sfx-blast",
+          "label": "SFX: guided explosions",
+          "sfx": "Two large explosions hitting near a vehicle at night, a rising whine before each impact, metal groaning as the vehicle tips over",
+          "seconds": 8
+        },
+        {
+          "id": "mal7-brown-target",
+          "label": "Brown: target acquired",
+          "voice": "brown",
+          "text": "[cold, flat] Target acquired. [pause] Range: three hundred meters. [beat] Correcting."
+        },
+        {
+          "id": "mal7-brown-price",
+          "label": "Brown: everyone has a price",
+          "voice": "brown",
+          "text": "[calm, menacing] Everyone has a price. [pause] The doctor's was going to be very generous. [beat] Yours is going to be very short."
+        },
+        {
+          "id": "mal7-brown-again",
+          "label": "Brown: you again",
+          "voice": "brown",
+          "text": "[almost amused] You again. [flatly] My files said you were dead, Doctor. [pause] I'll correct them."
+        },
+        {
+          "id": "mal7-shawn-caught",
+          "label": "Shawn: you don't know",
+          "voice": "ferrer",
+          "text": "[quiet, bitter] You don't know what it's like. [voice rising] They left me in the water. They left me to drown because I'm a dwarf!"
+        },
+        {
+          "id": "mal7-shawn-nobody",
+          "label": "Shawn: nobody asked",
+          "voice": "ferrer",
+          "text": "[barely audible] Nobody ever asked me. [pause] Nobody ever looks at me. [bitter laugh] Brown did."
+        },
+        {
+          "id": "mal8-yamato-cuffs",
+          "label": "Yamato: that's him",
+          "voice": "yamato",
+          "text": "[tired, satisfied] That's him. [beat] Take him. Gently — he's no use to me dead. [to the team] Good work. Really."
+        },
+        {
+          "id": "mal8-bob-thanks",
+          "label": "Doctor Bob: thank you",
+          "voice": "doctorbob",
+          "text": "[quiet, emotional] Thank you. [pause] I can't bring them back. [breath] But maybe now nobody else ends up like my team."
+        }
+      ]
+    }
+  ]
+}

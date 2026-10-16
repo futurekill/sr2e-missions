@@ -1,0 +1,24 @@
+{
+  "_id": "c324fd243cd3a850",
+  "name": "Missions Soundboard — Malpractice: On Call",
+  "description": "Click a sound to play it for everyone.",
+  "mode": -1,
+  "channel": "music",
+  "playing": false,
+  "fade": null,
+  "folder": null,
+  "sorting": "m",
+  "seed": null,
+  "sort": 400000,
+  "sounds": [],
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.103.1"
+  },
+  "_key": "!playlists!c324fd243cd3a850"
+}
