@@ -3,7 +3,7 @@
   "name": "Missions Soundboard — Under the Influence: Chez Cuca",
   "description": "Click a sound to play it for everyone.",
   "mode": -1,
-  "channel": "music",
+  "channel": "environment",
   "playing": false,
   "fade": null,
   "folder": null,

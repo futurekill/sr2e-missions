@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.1 — 2026-10-28
+
+### Changed
+- **The soundboard plays on the Environment audio channel** (it was Music). Players who turn
+  the music down or off still hear the NPC lines and sound effects. Playlists already imported
+  into a world keep their old channel: re-import them from the compendium, or set **Environment**
+  on each playlist by hand.
+
 ## 0.4.0 — 2026-10-16
 
 ### Added — a soundboard
