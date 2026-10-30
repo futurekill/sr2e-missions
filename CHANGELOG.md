@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.4.2 — 2026-10-30
+
+### Fixed
+- **Seven cast members showed a Reaction below the book's**: the three Futuremen, Lindy, Sgt.
+  Franco Tanner, Earl Brown and Marcus Powell. The system works an NPC's Reaction out as
+  (Quickness + Intelligence) ÷ 2 plus a modifier, so a printed Reaction raised by wired reflexes
+  needs that modifier. It was 0. For example, Lindy is back to 10 (it showed 5). Initiative
+  follows. Cast already placed in a world keep the old value; re-import them from the compendium.
+
 ## 0.4.1 — 2026-10-28
 
 ### Changed

@@ -16,3 +16,6 @@ enabled.
 - [ ] Import each **Missions — Soundboard** playlist. Clicking a sound plays it for every
       connected client; loops repeat until stopped; nothing plays by itself.
 - [ ] Each line sounds right for its character (`npm run audio -- --verify` checks the words).
+
+## Reaction (0.4.2)
+- [ ] Drag Lindy in: Reaction 10, 3D6 Initiative. Every cast member's ⌊(Q + I) ÷ 2⌋ + reaction.mod equals its printed Reaction.

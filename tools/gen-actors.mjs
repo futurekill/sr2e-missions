@@ -38,7 +38,8 @@ function npc(x) {
       charisma: attr(x.c), intelligence: attr(x.i), willpower: attr(x.w),
       essence: { value: x.e ?? 6, max: 6 },
       magic: { value: x.magic || 0, max: x.magic || 0, tradition: "none", type: x.magic ? "full" : "none", totem: "" },
-      reaction: { base: 0, mod: 0, value: x.r ?? Math.floor((x.q + x.i) / 2) },
+      // NPCData derives Reaction = ⌊(Q + I) ÷ 2⌋ + mod, so mod carries the printed boost (wired reflexes etc.).
+      reaction: { base: 0, mod: x.r == null ? 0 : x.r - Math.floor((Math.max(1, x.q) + Math.max(1, x.i)) / 2), value: x.r ?? Math.floor((x.q + x.i) / 2) },
       conditionMonitor: { physical: { value: 0, max: 10, overflow: 0 }, stun: { value: 0, max: 10, overflow: 0 }, overflow: 0 },
       armor: { ballistic: x.armorB || 0, impact: x.armorI || 0 },
       dicePools: { combat: { value: 0, max: 0, bonus: 0 }, magic: { value: 0, max: 0, bonus: 0 } },
