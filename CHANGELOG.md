@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+- **Soundboard sound effects remade with ElevenLabs' newer sound model** (`eleven_text_to_sound_v3`; v2 is
+  retiring 2027-02-01): 7 of the 11 effects, picked by ear against the old ones, each matched to the old
+  clip's loudness so the mix doesn't change. mal3-sfx-garage, mal4-sfx-siren, mal6-sfx-blowout and mal7-sfx-blast keep their old sound. Voiced lines are unchanged.
+  The files keep their names, so playlists already in a world play the new sounds without re-importing.
+
 ## 0.4.2 — 2026-10-30
 
 ### Fixed
